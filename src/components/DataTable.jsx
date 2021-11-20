@@ -243,3 +243,4 @@ const DataTable = ({ setIsInDataTable, setGraphData }) => {
 };
 
 export default DataTable;
+

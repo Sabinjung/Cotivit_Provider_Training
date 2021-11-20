@@ -64,12 +64,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13924,
     Avg_claim_growth: 0.36,
     Avg_Patient_growth: 0.58,
-    Patient_Retention: 75,
+    Patient_Retention: 80,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 398,
     Research_Paper_Citings: 46,
     Total_research_paper_Published: 17,
-    Weighted_score: 58.34
+    Weighted_score: 59.09
   },
   {
     Provider_NPI: 138603537,
@@ -96,12 +96,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 627,
     Avg_claim_growth: -0.26,
     Avg_Patient_growth: -0.2,
-    Patient_Retention: 55,
+    Patient_Retention: 62,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 600,
     Research_Paper_Citings: 48,
     Total_research_paper_Published: 18,
-    Weighted_score: 75.16
+    Weighted_score: 76.21
   },
   {
     Provider_NPI: 122962306,
@@ -128,12 +128,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 3548,
     Avg_claim_growth: -0.12,
     Avg_Patient_growth: 0.01,
-    Patient_Retention: 20,
+    Patient_Retention: 59,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 343,
     Research_Paper_Citings: 61,
     Total_research_paper_Published: 29,
-    Weighted_score: 45.73
+    Weighted_score: 51.58
   },
   {
     Provider_NPI: 151908558,
@@ -160,12 +160,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14249,
     Avg_claim_growth: 0.47,
     Avg_Patient_growth: 1.5,
-    Patient_Retention: 25,
+    Patient_Retention: 26,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 208,
     Research_Paper_Citings: 45,
     Total_research_paper_Published: 8,
-    Weighted_score: 29.59
+    Weighted_score: 29.74
   },
   {
     Provider_NPI: 170908908,
@@ -192,12 +192,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8898,
     Avg_claim_growth: -0.24,
     Avg_Patient_growth: 0.74,
-    Patient_Retention: 25,
+    Patient_Retention: 41,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 208,
     Research_Paper_Citings: 10,
     Total_research_paper_Published: 4,
-    Weighted_score: 26.55
+    Weighted_score: 28.95
   },
   {
     Provider_NPI: 123908001,
@@ -207,29 +207,29 @@ export const AggregatedData = [
     Provider_State: "NY",
     Provider_State_Name: "New York",
     Provider_Number: "+1 (575) 325-4039",
-    Provider_Experience_yrs: 19,
+    Provider_Experience_yrs: 7,
     Provider_Zip: 61612,
     Hospital_Affiliation: "Bluebird Hospital",
     Claim_2018: 7865,
     Claim_2019: 5052,
-    Claim_2020: 9876,
+    Claim_2020: 4102,
     Claim_growth_18_19: -0.56,
-    Claim_growth_19_20: 0.49,
+    Claim_growth_19_20: -0.23,
     Patient_2018: 5769,
     Patient_2019: 4001,
-    Patient_2020: 6012,
+    Patient_2020: 3082,
     Patient_growth_18_19: -0.31,
-    Patient_growth_19_20: 0.5,
-    Claim_Predicted_2021: 9538,
-    Patient_Predicted_2021: 6602,
-    Avg_claim_growth: -0.03,
-    Avg_Patient_growth: 0.1,
-    Patient_Retention: 25,
+    Patient_growth_19_20: -0.23,
+    Claim_Predicted_2021: 2485,
+    Patient_Predicted_2021: 2256,
+    Avg_claim_growth: -0.39,
+    Avg_Patient_growth: -0.27,
+    Patient_Retention: 20,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 401,
     Research_Paper_Citings: 1,
-    Total_research_paper_Published: 18,
-    Weighted_score: 47.71
+    Total_research_paper_Published: 3,
+    Weighted_score: 44.12
   },
   {
     Provider_NPI: 140000165,
@@ -256,12 +256,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10283,
     Avg_claim_growth: 0.33,
     Avg_Patient_growth: 0.47,
-    Patient_Retention: 25,
+    Patient_Retention: 40,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 401,
     Research_Paper_Citings: 12,
     Total_research_paper_Published: 21,
-    Weighted_score: 48.21
+    Weighted_score: 50.46
   },
   {
     Provider_NPI: 130908558,
@@ -274,26 +274,26 @@ export const AggregatedData = [
     Provider_Experience_yrs: 24,
     Provider_Zip: 61424,
     Hospital_Affiliation: "Mayo Clinic",
-    Claim_2018: 4101,
-    Claim_2019: 5052,
-    Claim_2020: 7878,
-    Claim_growth_18_19: 0.19,
-    Claim_growth_19_20: 0.36,
-    Patient_2018: 1889,
-    Patient_2019: 2512,
-    Patient_2020: 5101,
-    Patient_growth_18_19: 0.33,
-    Patient_growth_19_20: 1.03,
-    Claim_Predicted_2021: 10032,
-    Patient_Predicted_2021: 8571,
-    Avg_claim_growth: 0.27,
-    Avg_Patient_growth: 0.68,
-    Patient_Retention: 25,
-    Total_Hospital_Affiliations: 3,
+    Claim_2018: 9891,
+    Claim_2019: 15001,
+    Claim_2020: 20618,
+    Claim_growth_18_19: 0.34,
+    Claim_growth_19_20: 0.27,
+    Patient_2018: 6714,
+    Patient_2019: 12012,
+    Patient_2020: 15872,
+    Patient_growth_18_19: 0.79,
+    Patient_growth_19_20: 0.32,
+    Claim_Predicted_2021: 26938,
+    Patient_Predicted_2021: 24684,
+    Avg_claim_growth: 0.31,
+    Avg_Patient_growth: 0.56,
+    Patient_Retention: 78,
+    Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 208,
-    Research_Paper_Citings: 22,
-    Total_research_paper_Published: 15,
-    Weighted_score: 30.04
+    Research_Paper_Citings: 108,
+    Total_research_paper_Published: 41,
+    Weighted_score: 45.07
   },
   {
     Provider_NPI: 130825463,
@@ -320,12 +320,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14946,
     Avg_claim_growth: 0.25,
     Avg_Patient_growth: 0.37,
-    Patient_Retention: 49,
+    Patient_Retention: 67,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 357,
     Research_Paper_Citings: 50,
     Total_research_paper_Published: 25,
-    Weighted_score: 51.27
+    Weighted_score: 53.97
   },
   {
     Provider_NPI: 130859235,
@@ -353,12 +353,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 4245,
     Avg_claim_growth: 0.09,
     Avg_Patient_growth: 0.29,
-    Patient_Retention: 21,
+    Patient_Retention: 30,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 570,
     Research_Paper_Citings: 48,
     Total_research_paper_Published: 30,
-    Weighted_score: 67.22
+    Weighted_score: 68.57
   },
   {
     Provider_NPI: 124524511,
@@ -385,12 +385,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8440,
     Avg_claim_growth: 0.41,
     Avg_Patient_growth: 0.63,
-    Patient_Retention: 24,
+    Patient_Retention: 65,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 166,
     Research_Paper_Citings: 61,
     Total_research_paper_Published: 28,
-    Weighted_score: 28.46
+    Weighted_score: 34.61
   },
   {
     Provider_NPI: 133527691,
@@ -417,12 +417,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12977,
     Avg_claim_growth: 0.4,
     Avg_Patient_growth: 0.42,
-    Patient_Retention: 80,
+    Patient_Retention: 75,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 116,
     Research_Paper_Citings: 70,
     Total_research_paper_Published: 29,
-    Weighted_score: 32.56
+    Weighted_score: 31.81
   },
   {
     Provider_NPI: 132025830,
@@ -450,12 +450,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12388,
     Avg_claim_growth: 0.53,
     Avg_Patient_growth: 1.02,
-    Patient_Retention: 81,
+    Patient_Retention: 77,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 114,
     Research_Paper_Citings: 70,
     Total_research_paper_Published: 19,
-    Weighted_score: 31.66
+    Weighted_score: 31.06
   },
   {
     Provider_NPI: 135038117,
@@ -482,12 +482,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 20575,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 1.3,
-    Patient_Retention: 42,
+    Patient_Retention: 73,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 121,
     Research_Paper_Citings: 46,
     Total_research_paper_Published: 29,
-    Weighted_score: 26.76
+    Weighted_score: 31.41
   },
   {
     Provider_NPI: 133714052,
@@ -514,12 +514,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 19812,
     Avg_claim_growth: 0.53,
     Avg_Patient_growth: 1.29,
-    Patient_Retention: 31,
+    Patient_Retention: 38,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 467,
     Research_Paper_Citings: 36,
     Total_research_paper_Published: 3,
-    Weighted_score: 55.71
+    Weighted_score: 56.76
   },
   {
     Provider_NPI: 127267692,
@@ -546,12 +546,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8441,
     Avg_claim_growth: 0.09,
     Avg_Patient_growth: 0.63,
-    Patient_Retention: 45,
+    Patient_Retention: 75,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 440,
     Research_Paper_Citings: 30,
     Total_research_paper_Published: 5,
-    Weighted_score: 55.59
+    Weighted_score: 60.09
   },
   {
     Provider_NPI: 122433079,
@@ -578,12 +578,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17683,
     Avg_claim_growth: 0.27,
     Avg_Patient_growth: 1.03,
-    Patient_Retention: 27,
+    Patient_Retention: 73,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 551,
     Research_Paper_Citings: 13,
     Total_research_paper_Published: 6,
-    Weighted_score: 62.86
+    Weighted_score: 69.76
   },
   {
     Provider_NPI: 130204564,
@@ -610,12 +610,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 2631,
     Avg_claim_growth: 0.24,
     Avg_Patient_growth: 0.85,
-    Patient_Retention: 36,
+    Patient_Retention: 67,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 181,
     Research_Paper_Citings: 32,
     Total_research_paper_Published: 8,
-    Weighted_score: 29.02
+    Weighted_score: 33.67
   },
   {
     Provider_NPI: 129391471,
@@ -642,12 +642,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9599,
     Avg_claim_growth: 0.33,
     Avg_Patient_growth: 0.82,
-    Patient_Retention: 35,
+    Patient_Retention: 75,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 558,
     Research_Paper_Citings: 34,
     Total_research_paper_Published: 11,
-    Weighted_score: 67.58
+    Weighted_score: 73.58
   },
   {
     Provider_NPI: 134523810,
@@ -674,12 +674,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 16710,
     Avg_claim_growth: 0.42,
     Avg_Patient_growth: 0.92,
-    Patient_Retention: 59,
+    Patient_Retention: 46,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 179,
     Research_Paper_Citings: 14,
     Total_research_paper_Published: 26,
-    Weighted_score: 31.62
+    Weighted_score: 29.67
   },
   {
     Provider_NPI: 126634185,
@@ -706,12 +706,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9551,
     Avg_claim_growth: 0.02,
     Avg_Patient_growth: 0.25,
-    Patient_Retention: 80,
+    Patient_Retention: 27,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 393,
     Research_Paper_Citings: 42,
     Total_research_paper_Published: 9,
-    Weighted_score: 55.95
+    Weighted_score: 48
   },
   {
     Provider_NPI: 136853513,
@@ -738,12 +738,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 22504,
     Avg_claim_growth: 0.48,
     Avg_Patient_growth: 2.67,
-    Patient_Retention: 41,
+    Patient_Retention: 76,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 590,
     Research_Paper_Citings: 22,
     Total_research_paper_Published: 14,
-    Weighted_score: 71.08
+    Weighted_score: 76.33
   },
   {
     Provider_NPI: 130392474,
@@ -770,12 +770,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 5917,
     Avg_claim_growth: 0.04,
     Avg_Patient_growth: 0.52,
-    Patient_Retention: 35,
+    Patient_Retention: 25,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 474,
     Research_Paper_Citings: 38,
     Total_research_paper_Published: 7,
-    Weighted_score: 56.96
+    Weighted_score: 55.46
   },
   {
     Provider_NPI: 129997555,
@@ -802,12 +802,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 7878,
     Avg_claim_growth: 0.13,
     Avg_Patient_growth: 0.26,
-    Patient_Retention: 51,
+    Patient_Retention: 44,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 457,
     Research_Paper_Citings: 31,
     Total_research_paper_Published: 18,
-    Weighted_score: 58.78
+    Weighted_score: 57.73
   },
   {
     Provider_NPI: 124400346,
@@ -834,12 +834,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 11390,
     Avg_claim_growth: 0.46,
     Avg_Patient_growth: 1.25,
-    Patient_Retention: 23,
+    Patient_Retention: 79,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 268,
     Research_Paper_Citings: 47,
     Total_research_paper_Published: 4,
-    Weighted_score: 35.24
+    Weighted_score: 43.64
   },
   {
     Provider_NPI: 138662750,
@@ -866,12 +866,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 19018,
     Avg_claim_growth: 0.55,
     Avg_Patient_growth: 1.07,
-    Patient_Retention: 81,
+    Patient_Retention: 59,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 308,
     Research_Paper_Citings: 48,
     Total_research_paper_Published: 14,
-    Weighted_score: 49.97
+    Weighted_score: 46.67
   },
   {
     Provider_NPI: 136158518,
@@ -898,12 +898,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15321,
     Avg_claim_growth: 0.28,
     Avg_Patient_growth: 1.82,
-    Patient_Retention: 46,
+    Patient_Retention: 77,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 509,
     Research_Paper_Citings: 65,
     Total_research_paper_Published: 19,
-    Weighted_score: 65.47
+    Weighted_score: 70.12
   },
   {
     Provider_NPI: 139301505,
@@ -930,12 +930,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 11922,
     Avg_claim_growth: 0.38,
     Avg_Patient_growth: 1.24,
-    Patient_Retention: 74,
+    Patient_Retention: 34,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 474,
     Research_Paper_Citings: 60,
     Total_research_paper_Published: 4,
-    Weighted_score: 64.23
+    Weighted_score: 58.23
   },
   {
     Provider_NPI: 121659257,
@@ -962,12 +962,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 30942,
     Avg_claim_growth: 0.65,
     Avg_Patient_growth: 2.13,
-    Patient_Retention: 49,
+    Patient_Retention: 55,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 179,
     Research_Paper_Citings: 40,
     Total_research_paper_Published: 26,
-    Weighted_score: 32.61
+    Weighted_score: 33.51
   },
   {
     Provider_NPI: 131156424,
@@ -995,12 +995,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13160,
     Avg_claim_growth: 0.33,
     Avg_Patient_growth: 1.11,
-    Patient_Retention: 32,
+    Patient_Retention: 64,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 588,
     Research_Paper_Citings: 59,
     Total_research_paper_Published: 6,
-    Weighted_score: 70.34
+    Weighted_score: 75.14
   },
   {
     Provider_NPI: 137217879,
@@ -1027,12 +1027,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 30794,
     Avg_claim_growth: 0.56,
     Avg_Patient_growth: 1.57,
-    Patient_Retention: 71,
+    Patient_Retention: 53,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 205,
     Research_Paper_Citings: 17,
     Total_research_paper_Published: 8,
-    Weighted_score: 36.33
+    Weighted_score: 33.63
   },
   {
     Provider_NPI: 135455112,
@@ -1059,12 +1059,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 206599,
     Avg_claim_growth: 0.75,
     Avg_Patient_growth: 29.32,
-    Patient_Retention: 64,
+    Patient_Retention: 51,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 478,
     Research_Paper_Citings: 15,
     Total_research_paper_Published: 14,
-    Weighted_score: 67.67
+    Weighted_score: 65.72
   },
   {
     Provider_NPI: 130118262,
@@ -1092,12 +1092,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 7481,
     Avg_claim_growth: 0.08,
     Avg_Patient_growth: 0.46,
-    Patient_Retention: 41,
+    Patient_Retention: 51,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 513,
     Research_Paper_Citings: 53,
     Total_research_paper_Published: 1,
-    Weighted_score: 63.71
+    Weighted_score: 65.21
   },
   {
     Provider_NPI: 135694811,
@@ -1124,12 +1124,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10067,
     Avg_claim_growth: 0.14,
     Avg_Patient_growth: 0.7,
-    Patient_Retention: 76,
+    Patient_Retention: 56,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 202,
     Research_Paper_Citings: 26,
     Total_research_paper_Published: 20,
-    Weighted_score: 38.37
+    Weighted_score: 35.37
   },
   {
     Provider_NPI: 132961784,
@@ -1156,12 +1156,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 41294,
     Avg_claim_growth: 0.49,
     Avg_Patient_growth: 5.6,
-    Patient_Retention: 78,
+    Patient_Retention: 63,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 227,
     Research_Paper_Citings: 27,
     Total_research_paper_Published: 22,
-    Weighted_score: 41.07
+    Weighted_score: 38.82
   },
   {
     Provider_NPI: 127399939,
@@ -1188,12 +1188,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9786,
     Avg_claim_growth: 0.19,
     Avg_Patient_growth: 0.74,
-    Patient_Retention: 23,
+    Patient_Retention: 62,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 424,
     Research_Paper_Citings: 68,
     Total_research_paper_Published: 1,
-    Weighted_score: 52.23
+    Weighted_score: 58.08
   },
   {
     Provider_NPI: 126998530,
@@ -1220,12 +1220,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17804,
     Avg_claim_growth: 0.44,
     Avg_Patient_growth: 2.12,
-    Patient_Retention: 42,
+    Patient_Retention: 60,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 588,
     Research_Paper_Citings: 47,
     Total_research_paper_Published: 17,
-    Weighted_score: 72.46
+    Weighted_score: 75.16
   },
   {
     Provider_NPI: 136578263,
@@ -1252,12 +1252,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 32188,
     Avg_claim_growth: 0.57,
     Avg_Patient_growth: 1.92,
-    Patient_Retention: 28,
+    Patient_Retention: 69,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 114,
     Research_Paper_Citings: 68,
     Total_research_paper_Published: 19,
-    Weighted_score: 24.8
+    Weighted_score: 30.95
   },
   {
     Provider_NPI: 137840982,
@@ -1284,12 +1284,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12043,
     Avg_claim_growth: 0.27,
     Avg_Patient_growth: 1.28,
-    Patient_Retention: 30,
+    Patient_Retention: 39,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 154,
     Research_Paper_Citings: 56,
     Total_research_paper_Published: 27,
-    Weighted_score: 27.61
+    Weighted_score: 28.96
   },
   {
     Provider_NPI: 129356996,
@@ -1316,12 +1316,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 35755,
     Avg_claim_growth: 0.43,
     Avg_Patient_growth: 1.81,
-    Patient_Retention: 66,
+    Patient_Retention: 44,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 201,
     Research_Paper_Citings: 66,
     Total_research_paper_Published: 17,
-    Weighted_score: 36.95
+    Weighted_score: 33.65
   },
   {
     Provider_NPI: 123056379,
@@ -1348,12 +1348,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13992,
     Avg_claim_growth: 0.2,
     Avg_Patient_growth: 1.42,
-    Patient_Retention: 54,
+    Patient_Retention: 57,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 367,
     Research_Paper_Citings: 60,
     Total_research_paper_Published: 23,
-    Weighted_score: 53.12
+    Weighted_score: 53.57
   },
   {
     Provider_NPI: 127546505,
@@ -1380,12 +1380,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8646,
     Avg_claim_growth: 0.33,
     Avg_Patient_growth: 0.71,
-    Patient_Retention: 67,
+    Patient_Retention: 34,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 305,
     Research_Paper_Citings: 58,
     Total_research_paper_Published: 30,
-    Weighted_score: 48.46
+    Weighted_score: 43.51
   },
   {
     Provider_NPI: 140584248,
@@ -1412,12 +1412,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 20192,
     Avg_claim_growth: 0.43,
     Avg_Patient_growth: 1.9,
-    Patient_Retention: 56,
+    Patient_Retention: 21,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 253,
     Research_Paper_Citings: 26,
     Total_research_paper_Published: 16,
-    Weighted_score: 38.77
+    Weighted_score: 33.52
   },
   {
     Provider_NPI: 126114846,
@@ -1444,12 +1444,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 19230,
     Avg_claim_growth: 0.35,
     Avg_Patient_growth: 1.43,
-    Patient_Retention: 35,
+    Patient_Retention: 31,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 504,
     Research_Paper_Citings: 19,
     Total_research_paper_Published: 8,
-    Weighted_score: 59.56
+    Weighted_score: 58.96
   },
   {
     Provider_NPI: 132544734,
@@ -1476,12 +1476,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14057,
     Avg_claim_growth: 0.42,
     Avg_Patient_growth: 0.67,
-    Patient_Retention: 48,
+    Patient_Retention: 54,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 505,
     Research_Paper_Citings: 32,
     Total_research_paper_Published: 1,
-    Weighted_score: 62.62
+    Weighted_score: 63.52
   },
   {
     Provider_NPI: 125464095,
@@ -1508,12 +1508,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 19893,
     Avg_claim_growth: 0.43,
     Avg_Patient_growth: 1.13,
-    Patient_Retention: 46,
+    Patient_Retention: 29,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 260,
     Research_Paper_Citings: 11,
     Total_research_paper_Published: 16,
-    Weighted_score: 36.56
+    Weighted_score: 34.01
   },
   {
     Provider_NPI: 134077806,
@@ -1540,12 +1540,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14662,
     Avg_claim_growth: 0.25,
     Avg_Patient_growth: 1.16,
-    Patient_Retention: 77,
+    Patient_Retention: 54,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 392,
     Research_Paper_Citings: 43,
     Total_research_paper_Published: 3,
-    Weighted_score: 57.08
+    Weighted_score: 53.63
   },
   {
     Provider_NPI: 129291091,
@@ -1572,12 +1572,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 30529,
     Avg_claim_growth: 0.46,
     Avg_Patient_growth: 2.65,
-    Patient_Retention: 56,
+    Patient_Retention: 24,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 600,
     Research_Paper_Citings: 16,
     Total_research_paper_Published: 28,
-    Weighted_score: 74.42
+    Weighted_score: 69.62
   },
   {
     Provider_NPI: 131947686,
@@ -1604,12 +1604,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 135906,
     Avg_claim_growth: 0.67,
     Avg_Patient_growth: 12.72,
-    Patient_Retention: 78,
+    Patient_Retention: 47,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 455,
     Research_Paper_Citings: 58,
     Total_research_paper_Published: 28,
-    Weighted_score: 67.28
+    Weighted_score: 62.63
   },
   {
     Provider_NPI: 136786888,
@@ -1636,12 +1636,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 20596,
     Avg_claim_growth: 0.14,
     Avg_Patient_growth: 4.15,
-    Patient_Retention: 31,
+    Patient_Retention: 74,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 336,
     Research_Paper_Citings: 48,
     Total_research_paper_Published: 5,
-    Weighted_score: 44.61
+    Weighted_score: 51.06
   },
   {
     Provider_NPI: 132611404,
@@ -1668,12 +1668,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 46612,
     Avg_claim_growth: 0.6,
     Avg_Patient_growth: 4.36,
-    Patient_Retention: 69,
+    Patient_Retention: 25,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 440,
     Research_Paper_Citings: 38,
     Total_research_paper_Published: 21,
-    Weighted_score: 61.04
+    Weighted_score: 54.44
   },
   {
     Provider_NPI: 134339702,
@@ -1700,12 +1700,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9351,
     Avg_claim_growth: 0.18,
     Avg_Patient_growth: 0.57,
-    Patient_Retention: 20,
+    Patient_Retention: 57,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 211,
     Research_Paper_Citings: 55,
     Total_research_paper_Published: 8,
-    Weighted_score: 31.3
+    Weighted_score: 36.85
   },
   {
     Provider_NPI: 128610726,
@@ -1732,12 +1732,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 30476,
     Avg_claim_growth: 0.48,
     Avg_Patient_growth: 1.42,
-    Patient_Retention: 76,
+    Patient_Retention: 67,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 531,
     Research_Paper_Citings: 10,
     Total_research_paper_Published: 23,
-    Weighted_score: 69.78
+    Weighted_score: 68.43
   },
   {
     Provider_NPI: 132656473,
@@ -1764,12 +1764,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15559,
     Avg_claim_growth: 0.43,
     Avg_Patient_growth: 0.75,
-    Patient_Retention: 45,
+    Patient_Retention: 77,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 321,
     Research_Paper_Citings: 34,
     Total_research_paper_Published: 8,
-    Weighted_score: 44.59
+    Weighted_score: 49.39
   },
   {
     Provider_NPI: 131385606,
@@ -1796,12 +1796,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 23027,
     Avg_claim_growth: 0.45,
     Avg_Patient_growth: 0.99,
-    Patient_Retention: 20,
+    Patient_Retention: 71,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 347,
     Research_Paper_Citings: 20,
     Total_research_paper_Published: 7,
-    Weighted_score: 42.19
+    Weighted_score: 49.84
   },
   {
     Provider_NPI: 136698447,
@@ -1828,12 +1828,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12093,
     Avg_claim_growth: 0.26,
     Avg_Patient_growth: 0.91,
-    Patient_Retention: 26,
+    Patient_Retention: 57,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 171,
     Research_Paper_Citings: 15,
     Total_research_paper_Published: 18,
-    Weighted_score: 27.08
+    Weighted_score: 31.73
   },
   {
     Provider_NPI: 122907186,
@@ -1860,12 +1860,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13144,
     Avg_claim_growth: 0.17,
     Avg_Patient_growth: 1.59,
-    Patient_Retention: 49,
+    Patient_Retention: 58,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 158,
     Research_Paper_Citings: 55,
     Total_research_paper_Published: 3,
-    Weighted_score: 29.25
+    Weighted_score: 30.6
   },
   {
     Provider_NPI: 128009208,
@@ -1892,12 +1892,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 35038,
     Avg_claim_growth: 0.63,
     Avg_Patient_growth: 5.4,
-    Patient_Retention: 46,
+    Patient_Retention: 76,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 600,
     Research_Paper_Citings: 19,
     Total_research_paper_Published: 15,
-    Weighted_score: 73.05
+    Weighted_score: 77.55
   },
   {
     Provider_NPI: 126742179,
@@ -1925,12 +1925,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 7489,
     Avg_claim_growth: -0.13,
     Avg_Patient_growth: 0.66,
-    Patient_Retention: 25,
+    Patient_Retention: 74,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 391,
     Research_Paper_Citings: 16,
     Total_research_paper_Published: 17,
-    Weighted_score: 48.46
+    Weighted_score: 55.81
   },
   {
     Provider_NPI: 132482441,
@@ -1957,12 +1957,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10816,
     Avg_claim_growth: 0.01,
     Avg_Patient_growth: 1,
-    Patient_Retention: 37,
+    Patient_Retention: 55,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 499,
     Research_Paper_Citings: 40,
     Total_research_paper_Published: 7,
-    Weighted_score: 60.65
+    Weighted_score: 63.35
   },
   {
     Provider_NPI: 128435051,
@@ -1989,12 +1989,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8601,
     Avg_claim_growth: 0.2,
     Avg_Patient_growth: 0.35,
-    Patient_Retention: 22,
+    Patient_Retention: 68,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 271,
     Research_Paper_Citings: 63,
     Total_research_paper_Published: 21,
-    Weighted_score: 38.36
+    Weighted_score: 45.26
   },
   {
     Provider_NPI: 132273609,
@@ -2022,12 +2022,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 39186,
     Avg_claim_growth: 0.62,
     Avg_Patient_growth: 6.24,
-    Patient_Retention: 67,
+    Patient_Retention: 66,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 314,
     Research_Paper_Citings: 48,
     Total_research_paper_Published: 22,
-    Weighted_score: 50.92
+    Weighted_score: 50.77
   },
   {
     Provider_NPI: 133645949,
@@ -2054,15 +2054,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 34705,
     Avg_claim_growth: 0.63,
     Avg_Patient_growth: 2.4,
-    Patient_Retention: 55,
+    Patient_Retention: 69,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 101,
     Research_Paper_Citings: 43,
     Total_research_paper_Published: 30,
-    Weighted_score: 25.81
+    Weighted_score: 27.91
   },
   {
-    Provider_NPI: 132541716,
+    Provider_NPI: 137164544,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "James",
     Provider_Last_Name: "Reyes",
@@ -2094,7 +2094,7 @@ export const AggregatedData = [
     Weighted_score: 53.03
   },
   {
-    Provider_NPI: 122545065,
+    Provider_NPI: 122688239,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Anthony",
     Provider_Last_Name: "Stewart",
@@ -2118,15 +2118,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12102,
     Avg_claim_growth: 0.3,
     Avg_Patient_growth: 0.89,
-    Patient_Retention: 64,
+    Patient_Retention: 21,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 121,
     Research_Paper_Citings: 56,
     Total_research_paper_Published: 16,
-    Weighted_score: 27.84
+    Weighted_score: 21.39
   },
   {
-    Provider_NPI: 136847929,
+    Provider_NPI: 133652053,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "James",
     Provider_Last_Name: "Morris",
@@ -2158,7 +2158,7 @@ export const AggregatedData = [
     Weighted_score: 54.11
   },
   {
-    Provider_NPI: 128468312,
+    Provider_NPI: 128457900,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Aiden",
     Provider_Last_Name: "Morales",
@@ -2182,15 +2182,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9418,
     Avg_claim_growth: 0.3,
     Avg_Patient_growth: 0.77,
-    Patient_Retention: 60,
+    Patient_Retention: 24,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 190,
     Research_Paper_Citings: 15,
     Total_research_paper_Published: 24,
-    Weighted_score: 33.26
+    Weighted_score: 27.86
   },
   {
-    Provider_NPI: 134735610,
+    Provider_NPI: 133019036,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Landon",
     Provider_Last_Name: "Murphy",
@@ -2222,7 +2222,7 @@ export const AggregatedData = [
     Weighted_score: 64.61
   },
   {
-    Provider_NPI: 141053894,
+    Provider_NPI: 131280472,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Matthew",
     Provider_Last_Name: "Cook",
@@ -2246,15 +2246,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 22695,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 1.75,
-    Patient_Retention: 34,
+    Patient_Retention: 77,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 100,
     Research_Paper_Citings: 14,
     Total_research_paper_Published: 27,
-    Weighted_score: 21.45
+    Weighted_score: 27.9
   },
   {
-    Provider_NPI: 139400808,
+    Provider_NPI: 135801047,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Joshua",
     Provider_Last_Name: "Rogers",
@@ -2278,15 +2278,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12182,
     Avg_claim_growth: 0.4,
     Avg_Patient_growth: 1.33,
-    Patient_Retention: 59,
+    Patient_Retention: 50,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 122,
     Research_Paper_Citings: 29,
     Total_research_paper_Published: 21,
-    Weighted_score: 27.85
+    Weighted_score: 26.5
   },
   {
-    Provider_NPI: 143897713,
+    Provider_NPI: 126131043,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Christopher",
     Provider_Last_Name: "Gutierrez",
@@ -2310,15 +2310,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 19993,
     Avg_claim_growth: 0.51,
     Avg_Patient_growth: 1.69,
-    Patient_Retention: 30,
+    Patient_Retention: 64,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 343,
     Research_Paper_Citings: 39,
     Total_research_paper_Published: 19,
-    Weighted_score: 45.39
+    Weighted_score: 50.49
   },
   {
-    Provider_NPI: 133651965,
+    Provider_NPI: 134107156,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Andrew",
     Provider_Last_Name: "Ortiz",
@@ -2342,15 +2342,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8568,
     Avg_claim_growth: 0.02,
     Avg_Patient_growth: 0.71,
-    Patient_Retention: 34,
+    Patient_Retention: 70,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 131,
     Research_Paper_Citings: 26,
     Total_research_paper_Published: 29,
-    Weighted_score: 24.94
+    Weighted_score: 30.34
   },
   {
-    Provider_NPI: 134601153,
+    Provider_NPI: 123543799,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "David",
     Provider_Last_Name: "Morgan",
@@ -2374,15 +2374,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 83175,
     Avg_claim_growth: 0.6,
     Avg_Patient_growth: 15.45,
-    Patient_Retention: 23,
+    Patient_Retention: 71,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 405,
     Research_Paper_Citings: 11,
     Total_research_paper_Published: 28,
-    Weighted_score: 52.81
+    Weighted_score: 60.01
   },
   {
-    Provider_NPI: 130347528,
+    Provider_NPI: 122806138,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "James",
     Provider_Last_Name: "Cooper",
@@ -2406,15 +2406,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 16934,
     Avg_claim_growth: 0.34,
     Avg_Patient_growth: 1.13,
-    Patient_Retention: 36,
+    Patient_Retention: 50,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 448,
     Research_Paper_Citings: 20,
     Total_research_paper_Published: 10,
-    Weighted_score: 55.09
+    Weighted_score: 57.19
   },
   {
-    Provider_NPI: 140012687,
+    Provider_NPI: 131181050,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Ethan",
     Provider_Last_Name: "Peterson",
@@ -2438,15 +2438,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10448,
     Avg_claim_growth: 0.44,
     Avg_Patient_growth: 0.39,
-    Patient_Retention: 56,
+    Patient_Retention: 60,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 171,
     Research_Paper_Citings: 38,
     Total_research_paper_Published: 28,
-    Weighted_score: 32.67
+    Weighted_score: 33.27
   },
   {
-    Provider_NPI: 138766213,
+    Provider_NPI: 124721329,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Ethan",
     Provider_Last_Name: "Bailey",
@@ -2471,15 +2471,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 22621,
     Avg_claim_growth: 0.53,
     Avg_Patient_growth: 2.43,
-    Patient_Retention: 36,
+    Patient_Retention: 69,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 530,
     Research_Paper_Citings: 19,
     Total_research_paper_Published: 1,
-    Weighted_score: 62.04
+    Weighted_score: 66.99
   },
   {
-    Provider_NPI: 121968695,
+    Provider_NPI: 137151928,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Noah",
     Provider_Last_Name: "Reed",
@@ -2503,15 +2503,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 7842,
     Avg_claim_growth: 0.12,
     Avg_Patient_growth: 0.22,
-    Patient_Retention: 63,
+    Patient_Retention: 77,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 196,
     Research_Paper_Citings: 16,
     Total_research_paper_Published: 18,
-    Weighted_score: 33.92
+    Weighted_score: 36.02
   },
   {
-    Provider_NPI: 136668764,
+    Provider_NPI: 123326589,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Jesus",
     Provider_Last_Name: "Kelly",
@@ -2535,15 +2535,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8390,
     Avg_claim_growth: -0.11,
     Avg_Patient_growth: 0.98,
-    Patient_Retention: 46,
+    Patient_Retention: 53,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 536,
     Research_Paper_Citings: 31,
     Total_research_paper_Published: 20,
-    Weighted_score: 67.22
+    Weighted_score: 68.27
   },
   {
-    Provider_NPI: 126106690,
+    Provider_NPI: 133616320,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Hunter",
     Provider_Last_Name: "Howard",
@@ -2568,15 +2568,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13472,
     Avg_claim_growth: 0.32,
     Avg_Patient_growth: 1.57,
-    Patient_Retention: 53,
+    Patient_Retention: 65,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 202,
     Research_Paper_Citings: 20,
     Total_research_paper_Published: 20,
-    Weighted_score: 34.43
+    Weighted_score: 36.23
   },
   {
-    Provider_NPI: 122515595,
+    Provider_NPI: 131478152,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Nicholas",
     Provider_Last_Name: "Ramos",
@@ -2600,15 +2600,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 6892,
     Avg_claim_growth: -0.13,
     Avg_Patient_growth: 0.87,
-    Patient_Retention: 54,
+    Patient_Retention: 50,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 304,
     Research_Paper_Citings: 34,
     Total_research_paper_Published: 10,
-    Weighted_score: 43.45
+    Weighted_score: 42.85
   },
   {
-    Provider_NPI: 130806665,
+    Provider_NPI: 144152960,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Elijah",
     Provider_Last_Name: "Kim",
@@ -2632,15 +2632,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 150561,
     Avg_claim_growth: 0.62,
     Avg_Patient_growth: 20.4,
-    Patient_Retention: 76,
+    Patient_Retention: 75,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 395,
     Research_Paper_Citings: 31,
     Total_research_paper_Published: 16,
-    Weighted_score: 60.45
+    Weighted_score: 60.3
   },
   {
-    Provider_NPI: 129064399,
+    Provider_NPI: 132430167,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Tyler",
     Provider_Last_Name: "Cox",
@@ -2664,15 +2664,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 19104,
     Avg_claim_growth: 0.21,
     Avg_Patient_growth: 1.52,
-    Patient_Retention: 70,
+    Patient_Retention: 50,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 456,
     Research_Paper_Citings: 70,
     Total_research_paper_Published: 17,
-    Weighted_score: 63.44
+    Weighted_score: 60.44
   },
   {
-    Provider_NPI: 143184018,
+    Provider_NPI: 142043707,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Brayden",
     Provider_Last_Name: "Ward",
@@ -2696,15 +2696,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14864,
     Avg_claim_growth: 0.41,
     Avg_Patient_growth: 1.48,
-    Patient_Retention: 31,
+    Patient_Retention: 51,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 558,
     Research_Paper_Citings: 39,
     Total_research_paper_Published: 20,
-    Weighted_score: 67.98
+    Weighted_score: 70.98
   },
   {
-    Provider_NPI: 135064795,
+    Provider_NPI: 133326277,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Richardson",
@@ -2728,15 +2728,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 40955,
     Avg_claim_growth: 0.43,
     Avg_Patient_growth: 2.39,
-    Patient_Retention: 72,
+    Patient_Retention: 53,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 582,
     Research_Paper_Citings: 46,
     Total_research_paper_Published: 16,
-    Weighted_score: 75.46
+    Weighted_score: 72.61
   },
   {
-    Provider_NPI: 140426660,
+    Provider_NPI: 138035889,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Isabella",
     Provider_Last_Name: "Watson",
@@ -2760,15 +2760,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13515,
     Avg_claim_growth: 0.37,
     Avg_Patient_growth: 0.65,
-    Patient_Retention: 58,
+    Patient_Retention: 59,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 382,
     Research_Paper_Citings: 15,
     Total_research_paper_Published: 16,
-    Weighted_score: 51.55
+    Weighted_score: 51.7
   },
   {
-    Provider_NPI: 144307653,
+    Provider_NPI: 124191342,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Brooks",
@@ -2792,15 +2792,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 84680,
     Avg_claim_growth: 0.11,
     Avg_Patient_growth: 14.87,
-    Patient_Retention: 76,
+    Patient_Retention: 66,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 241,
     Research_Paper_Citings: 12,
     Total_research_paper_Published: 28,
-    Weighted_score: 43.8
+    Weighted_score: 42.3
   },
   {
-    Provider_NPI: 132796354,
+    Provider_NPI: 126602812,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Ava",
     Provider_Last_Name: "Chavez",
@@ -2824,15 +2824,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9086,
     Avg_claim_growth: 0.14,
     Avg_Patient_growth: 0.41,
-    Patient_Retention: 70,
+    Patient_Retention: 77,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 274,
     Research_Paper_Citings: 10,
     Total_research_paper_Published: 15,
-    Weighted_score: 42.11
+    Weighted_score: 43.16
   },
   {
-    Provider_NPI: 135203283,
+    Provider_NPI: 142607545,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Ashley",
     Provider_Last_Name: "Wood",
@@ -2856,15 +2856,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 4199,
     Avg_claim_growth: -0.1,
     Avg_Patient_growth: 0.05,
-    Patient_Retention: 72,
+    Patient_Retention: 70,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 538,
     Research_Paper_Citings: 68,
     Total_research_paper_Published: 24,
-    Weighted_score: 73.39
+    Weighted_score: 73.09
   },
   {
-    Provider_NPI: 134410961,
+    Provider_NPI: 143008520,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Chloe",
     Provider_Last_Name: "James",
@@ -2888,15 +2888,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13788,
     Avg_claim_growth: 0.48,
     Avg_Patient_growth: 0.73,
-    Patient_Retention: 21,
+    Patient_Retention: 79,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 257,
     Research_Paper_Citings: 10,
     Total_research_paper_Published: 6,
-    Weighted_score: 33.59
+    Weighted_score: 42.29
   },
   {
-    Provider_NPI: 133047444,
+    Provider_NPI: 124230385,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Olivia",
     Provider_Last_Name: "Bennet",
@@ -2920,15 +2920,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10225,
     Avg_claim_growth: 0.45,
     Avg_Patient_growth: 0.91,
-    Patient_Retention: 39,
+    Patient_Retention: 38,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 155,
     Research_Paper_Citings: 14,
     Total_research_paper_Published: 21,
-    Weighted_score: 25.72
+    Weighted_score: 25.57
   },
   {
-    Provider_NPI: 142078040,
+    Provider_NPI: 139358048,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Emily",
     Provider_Last_Name: "Gray",
@@ -2952,15 +2952,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 27069,
     Avg_claim_growth: 0.45,
     Avg_Patient_growth: 1.39,
-    Patient_Retention: 39,
+    Patient_Retention: 66,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 586,
     Research_Paper_Citings: 67,
     Total_research_paper_Published: 9,
-    Weighted_score: 71.87
+    Weighted_score: 75.92
   },
   {
-    Provider_NPI: 129375166,
+    Provider_NPI: 127739730,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Paola",
     Provider_Last_Name: "Mendoza",
@@ -2984,15 +2984,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 11528,
     Avg_claim_growth: -0.05,
     Avg_Patient_growth: 1.19,
-    Patient_Retention: 38,
+    Patient_Retention: 45,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 259,
     Research_Paper_Citings: 18,
     Total_research_paper_Published: 24,
-    Weighted_score: 36.93
+    Weighted_score: 37.98
   },
   {
-    Provider_NPI: 141751770,
+    Provider_NPI: 126912909,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Ruiz",
@@ -3016,15 +3016,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12274,
     Avg_claim_growth: 0.32,
     Avg_Patient_growth: 0.95,
-    Patient_Retention: 30,
+    Patient_Retention: 69,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 517,
     Research_Paper_Citings: 34,
     Total_research_paper_Published: 23,
-    Weighted_score: 62.95
+    Weighted_score: 68.8
   },
   {
-    Provider_NPI: 124370966,
+    Provider_NPI: 143960141,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Sophia",
     Provider_Last_Name: "Hughes",
@@ -3048,15 +3048,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9573,
     Avg_claim_growth: 0.38,
     Avg_Patient_growth: 0.74,
-    Patient_Retention: 67,
+    Patient_Retention: 61,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 319,
     Research_Paper_Citings: 26,
     Total_research_paper_Published: 3,
-    Weighted_score: 45.87
+    Weighted_score: 44.97
   },
   {
-    Provider_NPI: 144291062,
+    Provider_NPI: 123242542,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Price",
@@ -3088,7 +3088,7 @@ export const AggregatedData = [
     Weighted_score: 63.31
   },
   {
-    Provider_NPI: 126337998,
+    Provider_NPI: 123447664,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Olivia",
     Provider_Last_Name: "Alvarez",
@@ -3113,15 +3113,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 7983,
     Avg_claim_growth: 0.28,
     Avg_Patient_growth: 0.58,
-    Patient_Retention: 27,
+    Patient_Retention: 57,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 279,
     Research_Paper_Citings: 33,
     Total_research_paper_Published: 30,
-    Weighted_score: 39.07
+    Weighted_score: 43.57
   },
   {
-    Provider_NPI: 135110767,
+    Provider_NPI: 130130276,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Chloe",
     Provider_Last_Name: "Castillo",
@@ -3145,15 +3145,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 116515,
     Avg_claim_growth: 0.68,
     Avg_Patient_growth: 14.99,
-    Patient_Retention: 34,
+    Patient_Retention: 60,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 159,
     Research_Paper_Citings: 24,
     Total_research_paper_Published: 23,
-    Weighted_score: 30.63
+    Weighted_score: 34.53
   },
   {
-    Provider_NPI: 141362734,
+    Provider_NPI: 141974407,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Isabella",
     Provider_Last_Name: "Sanders",
@@ -3177,15 +3177,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15084,
     Avg_claim_growth: 0.39,
     Avg_Patient_growth: 0.56,
-    Patient_Retention: 22,
+    Patient_Retention: 36,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 361,
     Research_Paper_Citings: 28,
     Total_research_paper_Published: 30,
-    Weighted_score: 45.69
+    Weighted_score: 47.79
   },
   {
-    Provider_NPI: 137603033,
+    Provider_NPI: 143033534,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Patel",
@@ -3209,15 +3209,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 16294,
     Avg_claim_growth: 0.05,
     Avg_Patient_growth: 2.62,
-    Patient_Retention: 39,
+    Patient_Retention: 72,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 287,
     Research_Paper_Citings: 50,
     Total_research_paper_Published: 25,
-    Weighted_score: 42.28
+    Weighted_score: 47.23
   },
   {
-    Provider_NPI: 137616322,
+    Provider_NPI: 130997847,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Isabella",
     Provider_Last_Name: "Myers",
@@ -3241,15 +3241,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 24373,
     Avg_claim_growth: 0.55,
     Avg_Patient_growth: 2.23,
-    Patient_Retention: 36,
+    Patient_Retention: 33,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 274,
     Research_Paper_Citings: 49,
     Total_research_paper_Published: 28,
-    Weighted_score: 40.31
+    Weighted_score: 39.86
   },
   {
-    Provider_NPI: 139105699,
+    Provider_NPI: 125867869,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Genesis",
     Provider_Last_Name: "Long",
@@ -3273,15 +3273,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 19558,
     Avg_claim_growth: 0.44,
     Avg_Patient_growth: 1.65,
-    Patient_Retention: 29,
+    Patient_Retention: 57,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 367,
     Research_Paper_Citings: 34,
     Total_research_paper_Published: 17,
-    Weighted_score: 47.47
+    Weighted_score: 51.67
   },
   {
-    Provider_NPI: 128362815,
+    Provider_NPI: 129081149,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Addison",
     Provider_Last_Name: "Ross",
@@ -3305,15 +3305,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 29048,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 2.09,
-    Patient_Retention: 28,
+    Patient_Retention: 64,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 289,
     Research_Paper_Citings: 59,
     Total_research_paper_Published: 23,
-    Weighted_score: 42.17
+    Weighted_score: 47.57
   },
   {
-    Provider_NPI: 137423769,
+    Provider_NPI: 137409034,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Foster",
@@ -3338,15 +3338,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 48981,
     Avg_claim_growth: 0.59,
     Avg_Patient_growth: 3.61,
-    Patient_Retention: 20,
+    Patient_Retention: 77,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 251,
     Research_Paper_Citings: 21,
     Total_research_paper_Published: 24,
-    Weighted_score: 35.79
+    Weighted_score: 44.34
   },
   {
-    Provider_NPI: 133585961,
+    Provider_NPI: 125236015,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Addison",
     Provider_Last_Name: "Jimenez",
@@ -3370,15 +3370,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 152213,
     Avg_claim_growth: 0.46,
     Avg_Patient_growth: 25.41,
-    Patient_Retention: 36,
+    Patient_Retention: 69,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 535,
     Research_Paper_Citings: 56,
     Total_research_paper_Published: 9,
-    Weighted_score: 69.77
+    Weighted_score: 74.72
   },
   {
-    Provider_NPI: 143774477,
+    Provider_NPI: 142268574,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Ruiz",
@@ -3402,15 +3402,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 18256,
     Avg_claim_growth: 0.28,
     Avg_Patient_growth: 1.32,
-    Patient_Retention: 72,
+    Patient_Retention: 63,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 418,
     Research_Paper_Citings: 60,
     Total_research_paper_Published: 4,
-    Weighted_score: 59.52
+    Weighted_score: 58.17
   },
   {
-    Provider_NPI: 121599411,
+    Provider_NPI: 139792643,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Sophia",
     Provider_Last_Name: "Hughes",
@@ -3435,15 +3435,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 16327,
     Avg_claim_growth: 0.36,
     Avg_Patient_growth: 0.62,
-    Patient_Retention: 60,
+    Patient_Retention: 20,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 291,
     Research_Paper_Citings: 10,
     Total_research_paper_Published: 15,
-    Weighted_score: 42.4
+    Weighted_score: 36.4
   },
   {
-    Provider_NPI: 123795573,
+    Provider_NPI: 124499377,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Price",
@@ -3467,15 +3467,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 32525,
     Avg_claim_growth: 0.34,
     Avg_Patient_growth: 5.15,
-    Patient_Retention: 20,
+    Patient_Retention: 75,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 537,
     Research_Paper_Citings: 39,
     Total_research_paper_Published: 15,
-    Weighted_score: 63.85
+    Weighted_score: 72.1
   },
   {
-    Provider_NPI: 128948083,
+    Provider_NPI: 135520918,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Alvarez",
@@ -3499,15 +3499,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 26323,
     Avg_claim_growth: 0.48,
     Avg_Patient_growth: 2.02,
-    Patient_Retention: 44,
+    Patient_Retention: 48,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 152,
     Research_Paper_Citings: 53,
     Total_research_paper_Published: 1,
-    Weighted_score: 26.45
+    Weighted_score: 27.05
   },
   {
-    Provider_NPI: 137305985,
+    Provider_NPI: 134790801,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Olivia",
     Provider_Last_Name: "Castillo",
@@ -3531,15 +3531,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 184531,
     Avg_claim_growth: 0.66,
     Avg_Patient_growth: 17.09,
-    Patient_Retention: 61,
+    Patient_Retention: 68,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 318,
     Research_Paper_Citings: 50,
     Total_research_paper_Published: 8,
-    Weighted_score: 50.1
+    Weighted_score: 51.15
   },
   {
-    Provider_NPI: 142975860,
+    Provider_NPI: 126743226,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Gabriela",
     Provider_Last_Name: "Sanders",
@@ -3563,15 +3563,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 35499,
     Avg_claim_growth: 0.19,
     Avg_Patient_growth: 5.96,
-    Patient_Retention: 57,
+    Patient_Retention: 80,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 527,
     Research_Paper_Citings: 66,
     Total_research_paper_Published: 23,
-    Weighted_score: 70.68
+    Weighted_score: 74.13
   },
   {
-    Provider_NPI: 142041607,
+    Provider_NPI: 121902193,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Emily",
     Provider_Last_Name: "Patel",
@@ -3595,15 +3595,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 5493,
     Avg_claim_growth: 0.15,
     Avg_Patient_growth: 0.57,
-    Patient_Retention: 72,
+    Patient_Retention: 67,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 116,
     Research_Paper_Citings: 21,
     Total_research_paper_Published: 4,
-    Weighted_score: 26.09
+    Weighted_score: 25.34
   },
   {
-    Provider_NPI: 125920053,
+    Provider_NPI: 135418315,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Mia",
     Provider_Last_Name: "Myers",
@@ -3627,15 +3627,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8782,
     Avg_claim_growth: 0.35,
     Avg_Patient_growth: 0.59,
-    Patient_Retention: 21,
+    Patient_Retention: 73,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 100,
     Research_Paper_Citings: 27,
     Total_research_paper_Published: 27,
-    Weighted_score: 20.49
+    Weighted_score: 28.29
   },
   {
-    Provider_NPI: 125130491,
+    Provider_NPI: 127534169,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Olivia",
     Provider_Last_Name: "Long",
@@ -3659,15 +3659,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 19566,
     Avg_claim_growth: 0.46,
     Avg_Patient_growth: 1.56,
-    Patient_Retention: 60,
+    Patient_Retention: 54,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 255,
     Research_Paper_Citings: 12,
     Total_research_paper_Published: 11,
-    Weighted_score: 39.7
+    Weighted_score: 38.8
   },
   {
-    Provider_NPI: 132572081,
+    Provider_NPI: 133904984,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Ross",
@@ -3691,15 +3691,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 4811,
     Avg_claim_growth: 0.11,
     Avg_Patient_growth: 0.5,
-    Patient_Retention: 80,
+    Patient_Retention: 74,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 561,
     Research_Paper_Citings: 35,
     Total_research_paper_Published: 18,
-    Weighted_score: 74.27
+    Weighted_score: 73.37
   },
   {
-    Provider_NPI: 137434950,
+    Provider_NPI: 132681287,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Foster",
@@ -3723,15 +3723,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 11281,
     Avg_claim_growth: 0.58,
     Avg_Patient_growth: 0.96,
-    Patient_Retention: 25,
+    Patient_Retention: 33,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 426,
     Research_Paper_Citings: 26,
     Total_research_paper_Published: 21,
-    Weighted_score: 51.56
+    Weighted_score: 52.76
   },
   {
-    Provider_NPI: 143546665,
+    Provider_NPI: 133968508,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Sophia",
     Provider_Last_Name: "Jimenez",
@@ -3755,15 +3755,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9348,
     Avg_claim_growth: 0.42,
     Avg_Patient_growth: 0.62,
-    Patient_Retention: 63,
+    Patient_Retention: 66,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 405,
     Research_Paper_Citings: 69,
     Total_research_paper_Published: 23,
-    Weighted_score: 59.21
+    Weighted_score: 59.66
   },
   {
-    Provider_NPI: 135964445,
+    Provider_NPI: 132316917,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Emily",
     Provider_Last_Name: "Gomez",
@@ -3787,15 +3787,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15095,
     Avg_claim_growth: 0.37,
     Avg_Patient_growth: 0.91,
-    Patient_Retention: 29,
+    Patient_Retention: 64,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 536,
     Research_Paper_Citings: 38,
     Total_research_paper_Published: 27,
-    Weighted_score: 64.81
+    Weighted_score: 70.06
   },
   {
-    Provider_NPI: 126356618,
+    Provider_NPI: 121619569,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Sophia",
     Provider_Last_Name: "Phillips",
@@ -3819,15 +3819,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12321,
     Avg_claim_growth: 0.37,
     Avg_Patient_growth: 1.24,
-    Patient_Retention: 22,
+    Patient_Retention: 65,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 459,
     Research_Paper_Citings: 31,
     Total_research_paper_Published: 27,
-    Weighted_score: 56.77
+    Weighted_score: 63.22
   },
   {
-    Provider_NPI: 141108441,
+    Provider_NPI: 132881336,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Alondra",
     Provider_Last_Name: "Evans",
@@ -3851,15 +3851,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10661,
     Avg_claim_growth: 0.53,
     Avg_Patient_growth: 0.97,
-    Patient_Retention: 42,
+    Patient_Retention: 63,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 437,
     Research_Paper_Citings: 59,
     Total_research_paper_Published: 28,
-    Weighted_score: 58.85
+    Weighted_score: 62
   },
   {
-    Provider_NPI: 139244170,
+    Provider_NPI: 142780552,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Ava",
     Provider_Last_Name: "Turner",
@@ -3883,15 +3883,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 31357,
     Avg_claim_growth: 0.6,
     Avg_Patient_growth: 3.22,
-    Patient_Retention: 25,
+    Patient_Retention: 54,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 169,
     Research_Paper_Citings: 54,
     Total_research_paper_Published: 10,
-    Weighted_score: 27.71
+    Weighted_score: 32.06
   },
   {
-    Provider_NPI: 136310182,
+    Provider_NPI: 129492385,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Emily",
     Provider_Last_Name: "Diaz",
@@ -3915,15 +3915,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 72299,
     Avg_claim_growth: 0.56,
     Avg_Patient_growth: 10.56,
-    Patient_Retention: 78,
+    Patient_Retention: 70,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 447,
     Research_Paper_Citings: 65,
     Total_research_paper_Published: 12,
-    Weighted_score: 65.47
+    Weighted_score: 64.27
   },
   {
-    Provider_NPI: 137133890,
+    Provider_NPI: 125833077,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Emily",
     Provider_Last_Name: "Parker",
@@ -3947,15 +3947,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9193,
     Avg_claim_growth: 0.04,
     Avg_Patient_growth: 0.84,
-    Patient_Retention: 61,
+    Patient_Retention: 64,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 236,
     Research_Paper_Citings: 24,
     Total_research_paper_Published: 3,
-    Weighted_score: 36.53
+    Weighted_score: 36.98
   },
   {
-    Provider_NPI: 124664917,
+    Provider_NPI: 123526754,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Abigail",
     Provider_Last_Name: "Cruz",
@@ -3980,15 +3980,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12148,
     Avg_claim_growth: 0.28,
     Avg_Patient_growth: 0.63,
-    Patient_Retention: 64,
+    Patient_Retention: 65,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 165,
     Research_Paper_Citings: 19,
     Total_research_paper_Published: 22,
-    Weighted_score: 31.43
+    Weighted_score: 31.58
   },
   {
-    Provider_NPI: 141476638,
+    Provider_NPI: 124809311,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Katherine",
     Provider_Last_Name: "Edwards",
@@ -4012,15 +4012,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 20673,
     Avg_claim_growth: 0.37,
     Avg_Patient_growth: 1.61,
-    Patient_Retention: 79,
+    Patient_Retention: 58,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 369,
     Research_Paper_Citings: 56,
     Total_research_paper_Published: 4,
-    Weighted_score: 54.84
+    Weighted_score: 51.69
   },
   {
-    Provider_NPI: 136197053,
+    Provider_NPI: 129386034,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Mia",
     Provider_Last_Name: "Collins",
@@ -4044,15 +4044,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 20227,
     Avg_claim_growth: 0.57,
     Avg_Patient_growth: 1.04,
-    Patient_Retention: 46,
+    Patient_Retention: 63,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 170,
     Research_Paper_Citings: 61,
     Total_research_paper_Published: 20,
-    Weighted_score: 32.27
+    Weighted_score: 34.82
   },
   {
-    Provider_NPI: 136050931,
+    Provider_NPI: 131054076,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Abigail",
     Provider_Last_Name: "Reyes",
@@ -4076,15 +4076,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10773,
     Avg_claim_growth: 0.26,
     Avg_Patient_growth: 0.76,
-    Patient_Retention: 52,
+    Patient_Retention: 79,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 516,
     Research_Paper_Citings: 10,
     Total_research_paper_Published: 3,
-    Weighted_score: 63.7
+    Weighted_score: 67.75
   },
   {
-    Provider_NPI: 125135425,
+    Provider_NPI: 132617978,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Stewart",
@@ -4108,15 +4108,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10245,
     Avg_claim_growth: 0.35,
     Avg_Patient_growth: 0.45,
-    Patient_Retention: 26,
+    Patient_Retention: 52,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 547,
     Research_Paper_Citings: 38,
     Total_research_paper_Published: 26,
-    Weighted_score: 65.66
+    Weighted_score: 69.56
   },
   {
-    Provider_NPI: 143220495,
+    Provider_NPI: 129102146,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Nicole",
     Provider_Last_Name: "Morris",
@@ -4140,15 +4140,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 19231,
     Avg_claim_growth: 0.39,
     Avg_Patient_growth: 1.33,
-    Patient_Retention: 52,
+    Patient_Retention: 37,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 108,
     Research_Paper_Citings: 47,
     Total_research_paper_Published: 24,
-    Weighted_score: 25.19
+    Weighted_score: 22.94
   },
   {
-    Provider_NPI: 121402109,
+    Provider_NPI: 143047423,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Chloe",
     Provider_Last_Name: "Morales",
@@ -4172,15 +4172,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10917,
     Avg_claim_growth: 0.3,
     Avg_Patient_growth: 0.6,
-    Patient_Retention: 71,
+    Patient_Retention: 22,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 347,
     Research_Paper_Citings: 56,
     Total_research_paper_Published: 18,
-    Weighted_score: 51.63
+    Weighted_score: 44.28
   },
   {
-    Provider_NPI: 140803739,
+    Provider_NPI: 142007462,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Abigail",
     Provider_Last_Name: "Murphy",
@@ -4205,15 +4205,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 11487,
     Avg_claim_growth: 0.02,
     Avg_Patient_growth: 1.87,
-    Patient_Retention: 72,
+    Patient_Retention: 71,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 186,
     Research_Paper_Citings: 32,
     Total_research_paper_Published: 8,
-    Weighted_score: 34.88
+    Weighted_score: 34.73
   },
   {
-    Provider_NPI: 132737171,
+    Provider_NPI: 144329725,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Chloe",
     Provider_Last_Name: "Cook",
@@ -4237,15 +4237,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12589,
     Avg_claim_growth: 0.35,
     Avg_Patient_growth: 0.69,
-    Patient_Retention: 27,
+    Patient_Retention: 79,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 170,
     Research_Paper_Citings: 64,
     Total_research_paper_Published: 29,
-    Weighted_score: 30.36
+    Weighted_score: 38.16
   },
   {
-    Provider_NPI: 144060370,
+    Provider_NPI: 128093478,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Isabella",
     Provider_Last_Name: "Rogers",
@@ -4269,15 +4269,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 22831,
     Avg_claim_growth: 0.64,
     Avg_Patient_growth: 1.98,
-    Patient_Retention: 30,
+    Patient_Retention: 53,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 100,
     Research_Paper_Citings: 42,
     Total_research_paper_Published: 30,
-    Weighted_score: 23.43
+    Weighted_score: 26.88
   },
   {
-    Provider_NPI: 138955549,
+    Provider_NPI: 130143255,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Emily",
     Provider_Last_Name: "Gutierrez",
@@ -4302,15 +4302,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 20176,
     Avg_claim_growth: 0.26,
     Avg_Patient_growth: 1.6,
-    Patient_Retention: 50,
+    Patient_Retention: 53,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 580,
     Research_Paper_Citings: 10,
     Total_research_paper_Published: 8,
-    Weighted_score: 69.47
+    Weighted_score: 69.92
   },
   {
-    Provider_NPI: 134157793,
+    Provider_NPI: 131971344,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Ava",
     Provider_Last_Name: "Ortiz",
@@ -4334,15 +4334,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10547,
     Avg_claim_growth: 0.05,
     Avg_Patient_growth: 0.71,
-    Patient_Retention: 22,
+    Patient_Retention: 71,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 277,
     Research_Paper_Citings: 16,
     Total_research_paper_Published: 6,
-    Weighted_score: 35.45
+    Weighted_score: 42.8
   },
   {
-    Provider_NPI: 122796296,
+    Provider_NPI: 144788536,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Elizabeth",
     Provider_Last_Name: "Lopez",
@@ -4366,15 +4366,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13250,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 1,
-    Patient_Retention: 57,
+    Patient_Retention: 81,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 191,
     Research_Paper_Citings: 28,
     Total_research_paper_Published: 10,
-    Weighted_score: 32.55
+    Weighted_score: 36.15
   },
   {
-    Provider_NPI: 134939168,
+    Provider_NPI: 124649848,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Natalie",
     Provider_Last_Name: "Gonzales",
@@ -4398,15 +4398,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17388,
     Avg_claim_growth: 0.3,
     Avg_Patient_growth: 2.06,
-    Patient_Retention: 76,
+    Patient_Retention: 80,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 130,
     Research_Paper_Citings: 59,
     Total_research_paper_Published: 24,
-    Weighted_score: 32.92
+    Weighted_score: 33.52
   },
   {
-    Provider_NPI: 125740279,
+    Provider_NPI: 139463801,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Hannah",
     Provider_Last_Name: "Wilson",
@@ -4430,15 +4430,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13479,
     Avg_claim_growth: 0.44,
     Avg_Patient_growth: 0.81,
-    Patient_Retention: 62,
+    Patient_Retention: 49,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 565,
     Research_Paper_Citings: 38,
     Total_research_paper_Published: 18,
-    Weighted_score: 71.35
+    Weighted_score: 69.4
   },
   {
-    Provider_NPI: 138034096,
+    Provider_NPI: 126020640,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Samantha",
     Provider_Last_Name: "Anderson",
@@ -4462,15 +4462,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 24131,
     Avg_claim_growth: 0.6,
     Avg_Patient_growth: 1.97,
-    Patient_Retention: 57,
+    Patient_Retention: 69,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 388,
     Research_Paper_Citings: 20,
     Total_research_paper_Published: 30,
-    Weighted_score: 54.46
+    Weighted_score: 56.26
   },
   {
-    Provider_NPI: 136435068,
+    Provider_NPI: 138491180,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Abigail",
     Provider_Last_Name: "Thomas",
@@ -4494,15 +4494,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9638,
     Avg_claim_growth: 0.26,
     Avg_Patient_growth: 0.81,
-    Patient_Retention: 67,
+    Patient_Retention: 74,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 386,
     Research_Paper_Citings: 54,
     Total_research_paper_Published: 16,
-    Weighted_score: 56.36
+    Weighted_score: 57.41
   },
   {
-    Provider_NPI: 144850759,
+    Provider_NPI: 135670020,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Sophia",
     Provider_Last_Name: "Taylor",
@@ -4526,15 +4526,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 26906,
     Avg_claim_growth: 0.51,
     Avg_Patient_growth: 2.48,
-    Patient_Retention: 44,
+    Patient_Retention: 53,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 130,
     Research_Paper_Citings: 47,
     Total_research_paper_Published: 21,
-    Weighted_score: 26.95
+    Weighted_score: 28.3
   },
   {
-    Provider_NPI: 136132414,
+    Provider_NPI: 143735166,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Olivia",
     Provider_Last_Name: "Moore",
@@ -4558,15 +4558,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 25416,
     Avg_claim_growth: 0.4,
     Avg_Patient_growth: 1.77,
-    Patient_Retention: 46,
+    Patient_Retention: 51,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 291,
     Research_Paper_Citings: 52,
     Total_research_paper_Published: 21,
-    Weighted_score: 44.44
+    Weighted_score: 45.19
   },
   {
-    Provider_NPI: 137888926,
+    Provider_NPI: 122178461,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Hailey",
     Provider_Last_Name: "Jackson",
@@ -4590,15 +4590,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 16416,
     Avg_claim_growth: 0.47,
     Avg_Patient_growth: 0.87,
-    Patient_Retention: 72,
+    Patient_Retention: 36,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 106,
     Research_Paper_Citings: 47,
     Total_research_paper_Published: 8,
-    Weighted_score: 26.72
+    Weighted_score: 21.32
   },
   {
-    Provider_NPI: 144505628,
+    Provider_NPI: 124129304,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Ava",
     Provider_Last_Name: "Martin",
@@ -4622,15 +4622,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9232,
     Avg_claim_growth: 0.42,
     Avg_Patient_growth: 0.45,
-    Patient_Retention: 77,
+    Patient_Retention: 23,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 231,
     Research_Paper_Citings: 51,
     Total_research_paper_Published: 9,
-    Weighted_score: 39.97
+    Weighted_score: 31.87
   },
   {
-    Provider_NPI: 140659034,
+    Provider_NPI: 135416314,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Abigail",
     Provider_Last_Name: "Lee",
@@ -4654,15 +4654,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 26210,
     Avg_claim_growth: 0.38,
     Avg_Patient_growth: 1.91,
-    Patient_Retention: 67,
+    Patient_Retention: 74,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 101,
     Research_Paper_Citings: 41,
     Total_research_paper_Published: 17,
-    Weighted_score: 26.96
+    Weighted_score: 28.01
   },
   {
-    Provider_NPI: 137525719,
+    Provider_NPI: 131066935,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Anna",
     Provider_Last_Name: "Perez",
@@ -4686,15 +4686,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12756,
     Avg_claim_growth: 0.31,
     Avg_Patient_growth: 1.23,
-    Patient_Retention: 76,
+    Patient_Retention: 59,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 384,
     Research_Paper_Citings: 37,
     Total_research_paper_Published: 21,
-    Weighted_score: 56.56
+    Weighted_score: 54.01
   },
   {
-    Provider_NPI: 123727074,
+    Provider_NPI: 143158741,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Ava",
     Provider_Last_Name: "Thompson",
@@ -4718,15 +4718,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 105239,
     Avg_claim_growth: 0.54,
     Avg_Patient_growth: 16.54,
-    Patient_Retention: 54,
+    Patient_Retention: 72,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 457,
     Research_Paper_Citings: 47,
     Total_research_paper_Published: 9,
-    Weighted_score: 62.77
+    Weighted_score: 65.47
   },
   {
-    Provider_NPI: 132608537,
+    Provider_NPI: 129079885,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Ava",
     Provider_Last_Name: "White",
@@ -4750,15 +4750,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 28716,
     Avg_claim_growth: 0.43,
     Avg_Patient_growth: 1.14,
-    Patient_Retention: 71,
+    Patient_Retention: 57,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 408,
     Research_Paper_Citings: 22,
     Total_research_paper_Published: 3,
-    Weighted_score: 55.36
+    Weighted_score: 53.26
   },
   {
-    Provider_NPI: 137115365,
+    Provider_NPI: 143831060,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Emily",
     Provider_Last_Name: "Harris",
@@ -4782,15 +4782,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12009,
     Avg_claim_growth: 0.55,
     Avg_Patient_growth: 1.21,
-    Patient_Retention: 34,
+    Patient_Retention: 70,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 312,
     Research_Paper_Citings: 38,
     Total_research_paper_Published: 30,
-    Weighted_score: 44.85
+    Weighted_score: 50.25
   },
   {
-    Provider_NPI: 123037414,
+    Provider_NPI: 130673601,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Sanchez",
@@ -4814,15 +4814,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 22924,
     Avg_claim_growth: 0.51,
     Avg_Patient_growth: 2.96,
-    Patient_Retention: 65,
+    Patient_Retention: 73,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 502,
     Research_Paper_Citings: 70,
     Total_research_paper_Published: 16,
-    Weighted_score: 68.04
+    Weighted_score: 69.24
   },
   {
-    Provider_NPI: 137271601,
+    Provider_NPI: 128726596,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Lily",
     Provider_Last_Name: "Clark",
@@ -4847,15 +4847,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9668,
     Avg_claim_growth: 0.26,
     Avg_Patient_growth: 0.88,
-    Patient_Retention: 76,
+    Patient_Retention: 67,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 574,
     Research_Paper_Citings: 24,
     Total_research_paper_Published: 28,
-    Weighted_score: 75.63
+    Weighted_score: 74.28
   },
   {
-    Provider_NPI: 136028728,
+    Provider_NPI: 133504988,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Sophia",
     Provider_Last_Name: "Ramirez",
@@ -4879,15 +4879,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 16247,
     Avg_claim_growth: 0.37,
     Avg_Patient_growth: 0.97,
-    Patient_Retention: 27,
+    Patient_Retention: 56,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 418,
     Research_Paper_Citings: 48,
     Total_research_paper_Published: 29,
-    Weighted_score: 53.42
+    Weighted_score: 57.77
   },
   {
-    Provider_NPI: 133972723,
+    Provider_NPI: 124733615,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Samantha",
     Provider_Last_Name: "Lewis",
@@ -4911,15 +4911,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 25092,
     Avg_claim_growth: 0.6,
     Avg_Patient_growth: 1.71,
-    Patient_Retention: 37,
+    Patient_Retention: 27,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 175,
     Research_Paper_Citings: 30,
     Total_research_paper_Published: 22,
-    Weighted_score: 28.91
+    Weighted_score: 27.41
   },
   {
-    Provider_NPI: 136434624,
+    Provider_NPI: 143838143,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Isabella",
     Provider_Last_Name: "Robinson",
@@ -4943,15 +4943,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9979,
     Avg_claim_growth: 0.32,
     Avg_Patient_growth: 0.79,
-    Patient_Retention: 20,
+    Patient_Retention: 65,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 323,
     Research_Paper_Citings: 10,
     Total_research_paper_Published: 23,
-    Weighted_score: 40.92
+    Weighted_score: 47.67
   },
   {
-    Provider_NPI: 132445480,
+    Provider_NPI: 142596193,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Walker",
@@ -4975,15 +4975,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17187,
     Avg_claim_growth: 0.52,
     Avg_Patient_growth: 2.15,
-    Patient_Retention: 45,
+    Patient_Retention: 68,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 545,
     Research_Paper_Citings: 69,
     Total_research_paper_Published: 22,
-    Weighted_score: 70.73
+    Weighted_score: 74.18
   },
   {
-    Provider_NPI: 137095231,
+    Provider_NPI: 126806753,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Isabella",
     Provider_Last_Name: "Young",
@@ -5007,15 +5007,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12816,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 1.21,
-    Patient_Retention: 41,
+    Patient_Retention: 57,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 517,
     Research_Paper_Citings: 70,
     Total_research_paper_Published: 27,
-    Weighted_score: 67.39
+    Weighted_score: 69.79
   },
   {
-    Provider_NPI: 123550513,
+    Provider_NPI: 128698741,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Alexis",
     Provider_Last_Name: "Allen",
@@ -5039,15 +5039,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 36531,
     Avg_claim_growth: 0.49,
     Avg_Patient_growth: 1.88,
-    Patient_Retention: 54,
+    Patient_Retention: 36,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 591,
     Research_Paper_Citings: 48,
     Total_research_paper_Published: 17,
-    Weighted_score: 73.57
+    Weighted_score: 70.87
   },
   {
-    Provider_NPI: 124414561,
+    Provider_NPI: 133503781,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Abigail",
     Provider_Last_Name: "King",
@@ -5071,15 +5071,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 7894,
     Avg_claim_growth: -0.13,
     Avg_Patient_growth: 0.75,
-    Patient_Retention: 59,
+    Patient_Retention: 41,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 199,
     Research_Paper_Citings: 47,
     Total_research_paper_Published: 5,
-    Weighted_score: 33.62
+    Weighted_score: 30.92
   },
   {
-    Provider_NPI: 144777823,
+    Provider_NPI: 135809064,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Wright",
@@ -5103,15 +5103,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 55167,
     Avg_claim_growth: 0.55,
     Avg_Patient_growth: 7.67,
-    Patient_Retention: 56,
+    Patient_Retention: 75,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 403,
     Research_Paper_Citings: 41,
     Total_research_paper_Published: 4,
-    Weighted_score: 55.89
+    Weighted_score: 58.74
   },
   {
-    Provider_NPI: 122266425,
+    Provider_NPI: 138573161,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Alexis",
     Provider_Last_Name: "Scott",
@@ -5135,15 +5135,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 21612,
     Avg_claim_growth: 0.25,
     Avg_Patient_growth: 1.49,
-    Patient_Retention: 52,
+    Patient_Retention: 55,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 377,
     Research_Paper_Citings: 25,
     Total_research_paper_Published: 11,
-    Weighted_score: 50.2
+    Weighted_score: 50.65
   },
   {
-    Provider_NPI: 130493411,
+    Provider_NPI: 131187961,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Mia",
     Provider_Last_Name: "Torres",
@@ -5167,15 +5167,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 31407,
     Avg_claim_growth: 0.33,
     Avg_Patient_growth: 2.49,
-    Patient_Retention: 33,
+    Patient_Retention: 24,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 178,
     Research_Paper_Citings: 42,
     Total_research_paper_Published: 18,
-    Weighted_score: 28.82
+    Weighted_score: 27.47
   },
   {
-    Provider_NPI: 137707575,
+    Provider_NPI: 127042865,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Elizabeth",
     Provider_Last_Name: "Nguyen",
@@ -5200,15 +5200,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 20507,
     Avg_claim_growth: 0.42,
     Avg_Patient_growth: 1.28,
-    Patient_Retention: 68,
+    Patient_Retention: 35,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 209,
     Research_Paper_Citings: 64,
     Total_research_paper_Published: 26,
-    Weighted_score: 39.14
+    Weighted_score: 34.19
   },
   {
-    Provider_NPI: 132345315,
+    Provider_NPI: 138060662,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Elizabeth",
     Provider_Last_Name: "Sanders",
@@ -5232,15 +5232,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8710,
     Avg_claim_growth: 0.25,
     Avg_Patient_growth: 0.51,
-    Patient_Retention: 43,
+    Patient_Retention: 69,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 553,
     Research_Paper_Citings: 37,
     Total_research_paper_Published: 17,
-    Weighted_score: 67.85
+    Weighted_score: 71.75
   },
   {
-    Provider_NPI: 128356814,
+    Provider_NPI: 125980160,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Brooklyn",
     Provider_Last_Name: "Patel",
@@ -5264,15 +5264,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13568,
     Avg_claim_growth: 0.38,
     Avg_Patient_growth: 1.37,
-    Patient_Retention: 23,
+    Patient_Retention: 64,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 275,
     Research_Paper_Citings: 42,
     Total_research_paper_Published: 24,
-    Weighted_score: 38.1
+    Weighted_score: 44.25
   },
   {
-    Provider_NPI: 128561292,
+    Provider_NPI: 130057248,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Brianna",
     Provider_Last_Name: "Myers",
@@ -5297,15 +5297,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 96992,
     Avg_claim_growth: 0.59,
     Avg_Patient_growth: 11.61,
-    Patient_Retention: 69,
+    Patient_Retention: 28,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 298,
     Research_Paper_Citings: 48,
     Total_research_paper_Published: 27,
-    Weighted_score: 49.19
+    Weighted_score: 43.04
   },
   {
-    Provider_NPI: 129218237,
+    Provider_NPI: 133039273,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Elizabeth",
     Provider_Last_Name: "Long",
@@ -5329,15 +5329,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12393,
     Avg_claim_growth: 0.43,
     Avg_Patient_growth: 0.72,
-    Patient_Retention: 20,
+    Patient_Retention: 65,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 557,
     Research_Paper_Citings: 33,
     Total_research_paper_Published: 28,
-    Weighted_score: 66.48
+    Weighted_score: 73.23
   },
   {
-    Provider_NPI: 138532773,
+    Provider_NPI: 133439233,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Kayla",
     Provider_Last_Name: "Ross",
@@ -5361,15 +5361,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 18517,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 1.13,
-    Patient_Retention: 77,
+    Patient_Retention: 37,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 392,
     Research_Paper_Citings: 30,
     Total_research_paper_Published: 26,
-    Weighted_score: 56.68
+    Weighted_score: 50.68
   },
   {
-    Provider_NPI: 122277231,
+    Provider_NPI: 131753182,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Addison",
     Provider_Last_Name: "Foster",
@@ -5393,15 +5393,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 4635,
     Avg_claim_growth: 0.03,
     Avg_Patient_growth: 0.19,
-    Patient_Retention: 54,
+    Patient_Retention: 75,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 196,
     Research_Paper_Citings: 45,
     Total_research_paper_Published: 16,
-    Weighted_score: 34.49
+    Weighted_score: 37.64
   },
   {
-    Provider_NPI: 144383447,
+    Provider_NPI: 128041567,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Ava",
     Provider_Last_Name: "Jimenez",
@@ -5425,15 +5425,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8630,
     Avg_claim_growth: -0.1,
     Avg_Patient_growth: 0.69,
-    Patient_Retention: 78,
+    Patient_Retention: 65,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 191,
     Research_Paper_Citings: 63,
     Total_research_paper_Published: 10,
-    Weighted_score: 38.27
+    Weighted_score: 36.32
   },
   {
-    Provider_NPI: 135695540,
+    Provider_NPI: 133676149,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Anthony",
     Provider_Last_Name: "Gomez",
@@ -5457,15 +5457,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 76636,
     Avg_claim_growth: 0.4,
     Avg_Patient_growth: 12,
-    Patient_Retention: 80,
+    Patient_Retention: 78,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 349,
     Research_Paper_Citings: 54,
     Total_research_paper_Published: 10,
-    Weighted_score: 55.98
+    Weighted_score: 55.68
   },
   {
-    Provider_NPI: 123057785,
+    Provider_NPI: 136741153,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "James",
     Provider_Last_Name: "Phillips",
@@ -5489,15 +5489,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 26312,
     Avg_claim_growth: 0.51,
     Avg_Patient_growth: 1.52,
-    Patient_Retention: 43,
+    Patient_Retention: 65,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 341,
     Research_Paper_Citings: 56,
     Total_research_paper_Published: 27,
-    Weighted_score: 48.66
+    Weighted_score: 51.96
   },
   {
-    Provider_NPI: 138828684,
+    Provider_NPI: 126545136,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Aiden",
     Provider_Last_Name: "Evans",
@@ -5521,15 +5521,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9875,
     Avg_claim_growth: 0.05,
     Avg_Patient_growth: 0.78,
-    Patient_Retention: 64,
+    Patient_Retention: 66,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 590,
     Research_Paper_Citings: 44,
     Total_research_paper_Published: 29,
-    Weighted_score: 75.67
+    Weighted_score: 75.97
   },
   {
-    Provider_NPI: 135089790,
+    Provider_NPI: 143525945,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Landon",
     Provider_Last_Name: "Turner",
@@ -5553,15 +5553,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17236,
     Avg_claim_growth: 0.18,
     Avg_Patient_growth: 1.83,
-    Patient_Retention: 41,
+    Patient_Retention: 70,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 504,
     Research_Paper_Citings: 19,
     Total_research_paper_Published: 3,
-    Weighted_score: 61.3
+    Weighted_score: 65.65
   },
   {
-    Provider_NPI: 140778286,
+    Provider_NPI: 129028648,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Matthew",
     Provider_Last_Name: "Diaz",
@@ -5585,15 +5585,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14993,
     Avg_claim_growth: 0.57,
     Avg_Patient_growth: 1.84,
-    Patient_Retention: 36,
+    Patient_Retention: 51,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 216,
     Research_Paper_Citings: 11,
     Total_research_paper_Published: 6,
-    Weighted_score: 31.13
+    Weighted_score: 33.38
   },
   {
-    Provider_NPI: 142950889,
+    Provider_NPI: 136828568,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Joshua",
     Provider_Last_Name: "Parker",
@@ -5617,15 +5617,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12281,
     Avg_claim_growth: 0.45,
     Avg_Patient_growth: 1.11,
-    Patient_Retention: 44,
+    Patient_Retention: 36,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 273,
     Research_Paper_Citings: 32,
     Total_research_paper_Published: 9,
-    Weighted_score: 38.21
+    Weighted_score: 37.01
   },
   {
-    Provider_NPI: 127628524,
+    Provider_NPI: 128766715,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Christopher",
     Provider_Last_Name: "Cruz",
@@ -5649,15 +5649,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 7743,
     Avg_claim_growth: 0,
     Avg_Patient_growth: 0.42,
-    Patient_Retention: 25,
+    Patient_Retention: 39,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 571,
     Research_Paper_Citings: 41,
     Total_research_paper_Published: 26,
-    Weighted_score: 67.08
+    Weighted_score: 69.18
   },
   {
-    Provider_NPI: 132991954,
+    Provider_NPI: 126576651,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Andrew",
     Provider_Last_Name: "Edwards",
@@ -5681,15 +5681,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 11961,
     Avg_claim_growth: 0.33,
     Avg_Patient_growth: 1.31,
-    Patient_Retention: 40,
+    Patient_Retention: 66,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 311,
     Research_Paper_Citings: 11,
     Total_research_paper_Published: 1,
-    Weighted_score: 40.68
+    Weighted_score: 44.58
   },
   {
-    Provider_NPI: 135202101,
+    Provider_NPI: 134825138,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "David",
     Provider_Last_Name: "Collins",
@@ -5713,15 +5713,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 16051,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 1.3,
-    Patient_Retention: 47,
+    Patient_Retention: 58,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 448,
     Research_Paper_Citings: 62,
     Total_research_paper_Published: 22,
-    Weighted_score: 60.51
+    Weighted_score: 62.16
   },
   {
-    Provider_NPI: 139364636,
+    Provider_NPI: 126749054,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "James",
     Provider_Last_Name: "Reyes",
@@ -5746,15 +5746,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 7056,
     Avg_claim_growth: -0.21,
     Avg_Patient_growth: 0.57,
-    Patient_Retention: 68,
+    Patient_Retention: 57,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 566,
     Research_Paper_Citings: 36,
     Total_research_paper_Published: 3,
-    Weighted_score: 72.07
+    Weighted_score: 70.42
   },
   {
-    Provider_NPI: 125785101,
+    Provider_NPI: 128597276,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Ethan",
     Provider_Last_Name: "Stewart",
@@ -5778,15 +5778,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9687,
     Avg_claim_growth: 0.19,
     Avg_Patient_growth: 0.66,
-    Patient_Retention: 56,
+    Patient_Retention: 55,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 466,
     Research_Paper_Citings: 45,
     Total_research_paper_Published: 15,
-    Weighted_score: 61.82
+    Weighted_score: 61.67
   },
   {
-    Provider_NPI: 138192506,
+    Provider_NPI: 122058932,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Ethan",
     Provider_Last_Name: "Morris",
@@ -5810,15 +5810,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 20882,
     Avg_claim_growth: 0.57,
     Avg_Patient_growth: 1.41,
-    Patient_Retention: 51,
+    Patient_Retention: 64,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 585,
     Research_Paper_Citings: 44,
     Total_research_paper_Published: 29,
-    Weighted_score: 73.74
+    Weighted_score: 75.69
   },
   {
-    Provider_NPI: 131910492,
+    Provider_NPI: 140995011,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Noah",
     Provider_Last_Name: "Morales",
@@ -5843,15 +5843,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 29817,
     Avg_claim_growth: 0.48,
     Avg_Patient_growth: 1.33,
-    Patient_Retention: 43,
+    Patient_Retention: 54,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 382,
     Research_Paper_Citings: 61,
     Total_research_paper_Published: 12,
-    Weighted_score: 52.46
+    Weighted_score: 54.11
   },
   {
-    Provider_NPI: 123481172,
+    Provider_NPI: 122073360,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Jesus",
     Provider_Last_Name: "Murphy",
@@ -5875,15 +5875,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 50086,
     Avg_claim_growth: 0.64,
     Avg_Patient_growth: 4.37,
-    Patient_Retention: 73,
+    Patient_Retention: 36,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 385,
     Research_Paper_Citings: 64,
     Total_research_paper_Published: 18,
-    Weighted_score: 57.55
+    Weighted_score: 52
   },
   {
-    Provider_NPI: 144200557,
+    Provider_NPI: 128155901,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Hunter",
     Provider_Last_Name: "Cook",
@@ -5907,15 +5907,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12526,
     Avg_claim_growth: 0.1,
     Avg_Patient_growth: 1.43,
-    Patient_Retention: 25,
+    Patient_Retention: 41,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 503,
     Research_Paper_Citings: 46,
     Total_research_paper_Published: 17,
-    Weighted_score: 59.85
+    Weighted_score: 62.25
   },
   {
-    Provider_NPI: 130626391,
+    Provider_NPI: 142318210,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Nicholas",
     Provider_Last_Name: "Rogers",
@@ -5939,15 +5939,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 76554,
     Avg_claim_growth: 0.7,
     Avg_Patient_growth: 10.43,
-    Patient_Retention: 55,
+    Patient_Retention: 45,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 482,
     Research_Paper_Citings: 26,
     Total_research_paper_Published: 19,
-    Weighted_score: 63.78
+    Weighted_score: 62.28
   },
   {
-    Provider_NPI: 127106763,
+    Provider_NPI: 142342006,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Elijah",
     Provider_Last_Name: "Gutierrez",
@@ -5971,15 +5971,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 18973,
     Avg_claim_growth: 0.36,
     Avg_Patient_growth: 2.36,
-    Patient_Retention: 24,
+    Patient_Retention: 68,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 268,
     Research_Paper_Citings: 26,
     Total_research_paper_Published: 19,
-    Weighted_score: 37.64
+    Weighted_score: 44.24
   },
   {
-    Provider_NPI: 128020345,
+    Provider_NPI: 131548924,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Tyler",
     Provider_Last_Name: "Ortiz",
@@ -6003,15 +6003,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9596,
     Avg_claim_growth: 0.18,
     Avg_Patient_growth: 1.13,
-    Patient_Retention: 61,
+    Patient_Retention: 33,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 507,
     Research_Paper_Citings: 58,
     Total_research_paper_Published: 7,
-    Weighted_score: 65.11
+    Weighted_score: 60.91
   },
   {
-    Provider_NPI: 134950776,
+    Provider_NPI: 143005905,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Brayden",
     Provider_Last_Name: "Lopez",
@@ -6035,15 +6035,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 20982,
     Avg_claim_growth: 0.35,
     Avg_Patient_growth: 1.36,
-    Patient_Retention: 35,
+    Patient_Retention: 49,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 169,
     Research_Paper_Citings: 27,
     Total_research_paper_Published: 11,
-    Weighted_score: 26.14
+    Weighted_score: 28.24
   },
   {
-    Provider_NPI: 126966120,
+    Provider_NPI: 121706247,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Rivera",
@@ -6067,15 +6067,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17850,
     Avg_claim_growth: 0.35,
     Avg_Patient_growth: 1.68,
-    Patient_Retention: 45,
+    Patient_Retention: 69,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 267,
     Research_Paper_Citings: 25,
     Total_research_paper_Published: 5,
-    Weighted_score: 37.61
+    Weighted_score: 41.21
   },
   {
-    Provider_NPI: 143003347,
+    Provider_NPI: 123779617,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Isabella",
     Provider_Last_Name: "Campbell",
@@ -6099,15 +6099,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 11981,
     Avg_claim_growth: 0.3,
     Avg_Patient_growth: 0.55,
-    Patient_Retention: 20,
+    Patient_Retention: 66,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 439,
     Research_Paper_Citings: 43,
     Total_research_paper_Published: 13,
-    Weighted_score: 53.62
+    Weighted_score: 60.52
   },
   {
-    Provider_NPI: 127799826,
+    Provider_NPI: 131118072,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Mitchell",
@@ -6131,15 +6131,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9549,
     Avg_claim_growth: 0.31,
     Avg_Patient_growth: 0.58,
-    Patient_Retention: 21,
+    Patient_Retention: 66,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 234,
     Research_Paper_Citings: 50,
     Total_research_paper_Published: 10,
-    Weighted_score: 32.13
+    Weighted_score: 38.88
   },
   {
-    Provider_NPI: 128526423,
+    Provider_NPI: 121364240,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Ava",
     Provider_Last_Name: "Carter",
@@ -6163,15 +6163,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 19304,
     Avg_claim_growth: 0.16,
     Avg_Patient_growth: 2.49,
-    Patient_Retention: 41,
+    Patient_Retention: 71,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 573,
     Research_Paper_Citings: 70,
     Total_research_paper_Published: 7,
-    Weighted_score: 70.98
+    Weighted_score: 75.48
   },
   {
-    Provider_NPI: 133759774,
+    Provider_NPI: 139137893,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Ashley",
     Provider_Last_Name: "Roberts",
@@ -6195,15 +6195,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 56202,
     Avg_claim_growth: 0.68,
     Avg_Patient_growth: 6.9,
-    Patient_Retention: 31,
+    Patient_Retention: 42,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 536,
     Research_Paper_Citings: 38,
     Total_research_paper_Published: 8,
-    Weighted_score: 64.37
+    Weighted_score: 66.02
   },
   {
-    Provider_NPI: 135125381,
+    Provider_NPI: 125695489,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Chloe",
     Provider_Last_Name: "Gomez",
@@ -6227,15 +6227,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 33122,
     Avg_claim_growth: 0.58,
     Avg_Patient_growth: 2.23,
-    Patient_Retention: 54,
+    Patient_Retention: 31,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 443,
     Research_Paper_Citings: 66,
     Total_research_paper_Published: 23,
-    Weighted_score: 60.06
+    Weighted_score: 56.61
   },
   {
-    Provider_NPI: 142781489,
+    Provider_NPI: 121717343,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Olivia",
     Provider_Last_Name: "Phillips",
@@ -6259,15 +6259,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 7262,
     Avg_claim_growth: 0.01,
     Avg_Patient_growth: 0.43,
-    Patient_Retention: 28,
+    Patient_Retention: 80,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 202,
     Research_Paper_Citings: 63,
     Total_research_paper_Published: 1,
-    Weighted_score: 29.84
+    Weighted_score: 37.64
   },
   {
-    Provider_NPI: 131178027,
+    Provider_NPI: 132787899,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Emily",
     Provider_Last_Name: "Evans",
@@ -6291,15 +6291,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12229,
     Avg_claim_growth: 0.24,
     Avg_Patient_growth: 0.94,
-    Patient_Retention: 36,
+    Patient_Retention: 47,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 129,
     Research_Paper_Citings: 24,
     Total_research_paper_Published: 7,
-    Weighted_score: 22.03
+    Weighted_score: 23.68
   },
   {
-    Provider_NPI: 142967806,
+    Provider_NPI: 142732111,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Michael",
     Provider_Last_Name: "Turner",
@@ -6323,15 +6323,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 50975,
     Avg_claim_growth: 0.72,
     Avg_Patient_growth: 8.13,
-    Patient_Retention: 69,
+    Patient_Retention: 71,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 507,
     Research_Paper_Citings: 37,
     Total_research_paper_Published: 10,
-    Weighted_score: 68.47
+    Weighted_score: 68.77
   },
   {
-    Provider_NPI: 122502699,
+    Provider_NPI: 131417155,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Jackson",
     Provider_Last_Name: "Diaz",
@@ -6355,15 +6355,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 150084,
     Avg_claim_growth: 0.34,
     Avg_Patient_growth: 25.4,
-    Patient_Retention: 69,
+    Patient_Retention: 64,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 292,
     Research_Paper_Citings: 16,
     Total_research_paper_Published: 23,
-    Weighted_score: 50
+    Weighted_score: 49.25
   },
   {
-    Provider_NPI: 134777630,
+    Provider_NPI: 133909949,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Christopher",
     Provider_Last_Name: "Parker",
@@ -6388,15 +6388,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 70318,
     Avg_claim_growth: 0.63,
     Avg_Patient_growth: 8.11,
-    Patient_Retention: 53,
+    Patient_Retention: 21,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 100,
     Research_Paper_Citings: 23,
     Total_research_paper_Published: 25,
-    Weighted_score: 25.05
+    Weighted_score: 20.25
   },
   {
-    Provider_NPI: 123832526,
+    Provider_NPI: 129297902,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Jayden",
     Provider_Last_Name: "Cruz",
@@ -6420,15 +6420,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 97043,
     Avg_claim_growth: 0.74,
     Avg_Patient_growth: 11.92,
-    Patient_Retention: 64,
+    Patient_Retention: 67,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 581,
     Research_Paper_Citings: 34,
     Total_research_paper_Published: 22,
-    Weighted_score: 76.23
+    Weighted_score: 76.68
   },
   {
-    Provider_NPI: 135059810,
+    Provider_NPI: 124239465,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Joshua",
     Provider_Last_Name: "Edwards",
@@ -6452,15 +6452,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14241,
     Avg_claim_growth: 0.23,
     Avg_Patient_growth: 1.4,
-    Patient_Retention: 37,
+    Patient_Retention: 68,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 491,
     Research_Paper_Citings: 45,
     Total_research_paper_Published: 24,
-    Weighted_score: 61.63
+    Weighted_score: 66.28
   },
   {
-    Provider_NPI: 132670565,
+    Provider_NPI: 142106787,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Logan",
     Provider_Last_Name: "Collins",
@@ -6484,15 +6484,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 26940,
     Avg_claim_growth: 0.55,
     Avg_Patient_growth: 2.71,
-    Patient_Retention: 31,
+    Patient_Retention: 51,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 337,
     Research_Paper_Citings: 61,
     Total_research_paper_Published: 12,
-    Weighted_score: 44.95
+    Weighted_score: 47.95
   },
   {
-    Provider_NPI: 139660475,
+    Provider_NPI: 124594433,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Joshua",
     Provider_Last_Name: "Reyes",
@@ -6516,15 +6516,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8845,
     Avg_claim_growth: 0.09,
     Avg_Patient_growth: 0.64,
-    Patient_Retention: 70,
+    Patient_Retention: 68,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 369,
     Research_Paper_Citings: 44,
     Total_research_paper_Published: 8,
-    Weighted_score: 53.25
+    Weighted_score: 52.95
   },
   {
-    Provider_NPI: 142247722,
+    Provider_NPI: 127764890,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Tyler",
     Provider_Last_Name: "Stewart",
@@ -6548,15 +6548,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 6116,
     Avg_claim_growth: 0.1,
     Avg_Patient_growth: 0.18,
-    Patient_Retention: 43,
+    Patient_Retention: 67,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 573,
     Research_Paper_Citings: 23,
     Total_research_paper_Published: 16,
-    Weighted_score: 69.56
+    Weighted_score: 73.16
   },
   {
-    Provider_NPI: 126771643,
+    Provider_NPI: 122666412,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Jacob",
     Provider_Last_Name: "Morris",
@@ -6580,15 +6580,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 27518,
     Avg_claim_growth: 0.72,
     Avg_Patient_growth: 3.94,
-    Patient_Retention: 43,
+    Patient_Retention: 54,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 295,
     Research_Paper_Citings: 11,
     Total_research_paper_Published: 24,
-    Weighted_score: 42.03
+    Weighted_score: 43.68
   },
   {
-    Provider_NPI: 122150503,
+    Provider_NPI: 128912371,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Joshua",
     Provider_Last_Name: "Roberts",
@@ -6613,15 +6613,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 7622,
     Avg_claim_growth: 0.02,
     Avg_Patient_growth: 0.52,
-    Patient_Retention: 39,
+    Patient_Retention: 81,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 597,
     Research_Paper_Citings: 62,
     Total_research_paper_Published: 30,
-    Weighted_score: 74.66
+    Weighted_score: 80.96
   },
   {
-    Provider_NPI: 125267750,
+    Provider_NPI: 125447269,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Jacob",
     Provider_Last_Name: "Gomez",
@@ -6645,15 +6645,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8998,
     Avg_claim_growth: 0.44,
     Avg_Patient_growth: 0.39,
-    Patient_Retention: 62,
+    Patient_Retention: 55,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 164,
     Research_Paper_Citings: 19,
     Total_research_paper_Published: 17,
-    Weighted_score: 31.71
+    Weighted_score: 30.66
   },
   {
-    Provider_NPI: 140579730,
+    Provider_NPI: 131540788,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Jacob",
     Provider_Last_Name: "Phillips",
@@ -6677,15 +6677,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 24607,
     Avg_claim_growth: 0.62,
     Avg_Patient_growth: 1.94,
-    Patient_Retention: 64,
+    Patient_Retention: 59,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 417,
     Research_Paper_Citings: 37,
     Total_research_paper_Published: 10,
-    Weighted_score: 57.26
+    Weighted_score: 56.51
   },
   {
-    Provider_NPI: 137421944,
+    Provider_NPI: 132539292,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Elijah",
     Provider_Last_Name: "Evans",
@@ -6710,15 +6710,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 6447,
     Avg_claim_growth: 0.05,
     Avg_Patient_growth: 0.25,
-    Patient_Retention: 34,
+    Patient_Retention: 63,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 407,
     Research_Paper_Citings: 23,
     Total_research_paper_Published: 8,
-    Weighted_score: 50.51
+    Weighted_score: 54.86
   },
   {
-    Provider_NPI: 141978463,
+    Provider_NPI: 126122451,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Wyatt",
     Provider_Last_Name: "Turner",
@@ -6742,15 +6742,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13386,
     Avg_claim_growth: 0.25,
     Avg_Patient_growth: 1.36,
-    Patient_Retention: 62,
+    Patient_Retention: 57,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 531,
     Research_Paper_Citings: 12,
     Total_research_paper_Published: 11,
-    Weighted_score: 66.92
+    Weighted_score: 66.17
   },
   {
-    Provider_NPI: 130389316,
+    Provider_NPI: 129309099,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Jackson",
     Provider_Last_Name: "Diaz",
@@ -6774,15 +6774,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 21763,
     Avg_claim_growth: 0.46,
     Avg_Patient_growth: 2.13,
-    Patient_Retention: 57,
+    Patient_Retention: 63,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 392,
     Research_Paper_Citings: 20,
     Total_research_paper_Published: 20,
-    Weighted_score: 53.47
+    Weighted_score: 54.37
   },
   {
-    Provider_NPI: 122270664,
+    Provider_NPI: 121531655,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Joshua",
     Provider_Last_Name: "Parker",
@@ -6806,15 +6806,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10115,
     Avg_claim_growth: 0.07,
     Avg_Patient_growth: 0.96,
-    Patient_Retention: 61,
+    Patient_Retention: 52,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 565,
     Research_Paper_Citings: 70,
     Total_research_paper_Published: 30,
-    Weighted_score: 74.65
+    Weighted_score: 73.3
   },
   {
-    Provider_NPI: 133559664,
+    Provider_NPI: 127612209,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Ethan",
     Provider_Last_Name: "Cruz",
@@ -6846,7 +6846,7 @@ export const AggregatedData = [
     Weighted_score: 31.86
   },
   {
-    Provider_NPI: 140067663,
+    Provider_NPI: 130811946,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Aiden",
     Provider_Last_Name: "Edwards",
@@ -6870,15 +6870,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 364718,
     Avg_claim_growth: 0.56,
     Avg_Patient_growth: 35.86,
-    Patient_Retention: 34,
+    Patient_Retention: 39,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 187,
     Research_Paper_Citings: 26,
     Total_research_paper_Published: 15,
-    Weighted_score: 35.58
+    Weighted_score: 36.33
   },
   {
-    Provider_NPI: 125215228,
+    Provider_NPI: 123813845,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "William",
     Provider_Last_Name: "Collins",
@@ -6902,15 +6902,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 21924,
     Avg_claim_growth: 0.36,
     Avg_Patient_growth: 1.2,
-    Patient_Retention: 20,
+    Patient_Retention: 63,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 243,
     Research_Paper_Citings: 44,
     Total_research_paper_Published: 8,
-    Weighted_score: 33.31
+    Weighted_score: 39.76
   },
   {
-    Provider_NPI: 130958015,
+    Provider_NPI: 136187059,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Ethan",
     Provider_Last_Name: "Reyes",
@@ -6934,15 +6934,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8601,
     Avg_claim_growth: 0.11,
     Avg_Patient_growth: 1,
-    Patient_Retention: 76,
+    Patient_Retention: 22,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 261,
     Research_Paper_Citings: 62,
     Total_research_paper_Published: 27,
-    Weighted_score: 45.02
+    Weighted_score: 36.92
   },
   {
-    Provider_NPI: 126022650,
+    Provider_NPI: 143784851,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Jacob",
     Provider_Last_Name: "Stewart",
@@ -6966,15 +6966,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 21722,
     Avg_claim_growth: 0.49,
     Avg_Patient_growth: 1.38,
-    Patient_Retention: 39,
+    Patient_Retention: 26,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 313,
     Research_Paper_Citings: 67,
     Total_research_paper_Published: 25,
-    Weighted_score: 45.27
+    Weighted_score: 43.32
   },
   {
-    Provider_NPI: 143001276,
+    Provider_NPI: 129390952,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Brody",
     Provider_Last_Name: "Morris",
@@ -6998,15 +6998,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17436,
     Avg_claim_growth: 0.34,
     Avg_Patient_growth: 2.47,
-    Patient_Retention: 29,
+    Patient_Retention: 62,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 475,
     Research_Paper_Citings: 70,
     Total_research_paper_Published: 4,
-    Weighted_score: 59.01
+    Weighted_score: 63.96
   },
   {
-    Provider_NPI: 131790728,
+    Provider_NPI: 140214161,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Jayden",
     Provider_Last_Name: "Morales",
@@ -7030,15 +7030,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 44181,
     Avg_claim_growth: 0.6,
     Avg_Patient_growth: 3.99,
-    Patient_Retention: 79,
+    Patient_Retention: 66,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 285,
     Research_Paper_Citings: 49,
     Total_research_paper_Published: 11,
-    Weighted_score: 47.32
+    Weighted_score: 45.37
   },
   {
-    Provider_NPI: 134670036,
+    Provider_NPI: 125013182,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Joseph",
     Provider_Last_Name: "Murphy",
@@ -7062,15 +7062,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 27266,
     Avg_claim_growth: 0.27,
     Avg_Patient_growth: 2.84,
-    Patient_Retention: 44,
+    Patient_Retention: 81,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 428,
     Research_Paper_Citings: 30,
     Total_research_paper_Published: 24,
-    Weighted_score: 56.62
+    Weighted_score: 62.17
   },
   {
-    Provider_NPI: 133888475,
+    Provider_NPI: 129935261,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Jose",
     Provider_Last_Name: "Cook",
@@ -7094,15 +7094,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 25173,
     Avg_claim_growth: 0.51,
     Avg_Patient_growth: 1.37,
-    Patient_Retention: 61,
+    Patient_Retention: 37,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 322,
     Research_Paper_Citings: 56,
     Total_research_paper_Published: 22,
-    Weighted_score: 48.03
+    Weighted_score: 44.43
   },
   {
-    Provider_NPI: 137616109,
+    Provider_NPI: 135625940,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "James",
     Provider_Last_Name: "Rogers",
@@ -7126,15 +7126,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 16157,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 1.28,
-    Patient_Retention: 45,
+    Patient_Retention: 72,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 417,
     Research_Paper_Citings: 70,
     Total_research_paper_Published: 27,
-    Weighted_score: 57.71
+    Weighted_score: 61.76
   },
   {
-    Provider_NPI: 143816767,
+    Provider_NPI: 122239389,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Anthony",
     Provider_Last_Name: "Gutierrez",
@@ -7158,15 +7158,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15006,
     Avg_claim_growth: 0.04,
     Avg_Patient_growth: 1.98,
-    Patient_Retention: 49,
+    Patient_Retention: 50,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 457,
     Research_Paper_Citings: 22,
     Total_research_paper_Published: 25,
-    Weighted_score: 60.15
+    Weighted_score: 60.3
   },
   {
-    Provider_NPI: 138579218,
+    Provider_NPI: 126674555,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "James",
     Provider_Last_Name: "Ortiz",
@@ -7190,15 +7190,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10610,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 0.61,
-    Patient_Retention: 40,
+    Patient_Retention: 46,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 453,
     Research_Paper_Citings: 12,
     Total_research_paper_Published: 17,
-    Weighted_score: 55.52
+    Weighted_score: 56.42
   },
   {
-    Provider_NPI: 139795395,
+    Provider_NPI: 129934058,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Aiden",
     Provider_Last_Name: "Morgan",
@@ -7222,15 +7222,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14143,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 1.64,
-    Patient_Retention: 43,
+    Patient_Retention: 60,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 323,
     Research_Paper_Citings: 13,
     Total_research_paper_Published: 24,
-    Weighted_score: 44.23
+    Weighted_score: 46.78
   },
   {
-    Provider_NPI: 135264024,
+    Provider_NPI: 131558208,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Landon",
     Provider_Last_Name: "Cooper",
@@ -7255,15 +7255,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 58235,
     Avg_claim_growth: 0.7,
     Avg_Patient_growth: 6.67,
-    Patient_Retention: 56,
+    Patient_Retention: 67,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 593,
     Research_Paper_Citings: 44,
     Total_research_paper_Published: 29,
-    Weighted_score: 76.57
+    Weighted_score: 78.22
   },
   {
-    Provider_NPI: 142360045,
+    Provider_NPI: 132178659,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Matthew",
     Provider_Last_Name: "Peterson",
@@ -7287,15 +7287,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15966,
     Avg_claim_growth: 0.36,
     Avg_Patient_growth: 0.64,
-    Patient_Retention: 24,
+    Patient_Retention: 36,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 342,
     Research_Paper_Citings: 32,
     Total_research_paper_Published: 4,
-    Weighted_score: 41.6
+    Weighted_score: 43.4
   },
   {
-    Provider_NPI: 141826588,
+    Provider_NPI: 135509282,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Joshua",
     Provider_Last_Name: "Bailey",
@@ -7319,15 +7319,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 31382,
     Avg_claim_growth: 0.27,
     Avg_Patient_growth: 4.71,
-    Patient_Retention: 29,
+    Patient_Retention: 40,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 240,
     Research_Paper_Citings: 27,
     Total_research_paper_Published: 5,
-    Weighted_score: 33.09
+    Weighted_score: 34.74
   },
   {
-    Provider_NPI: 131675733,
+    Provider_NPI: 123191249,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Christopher",
     Provider_Last_Name: "Reed",
@@ -7351,15 +7351,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 19287,
     Avg_claim_growth: 0.57,
     Avg_Patient_growth: 1.71,
-    Patient_Retention: 41,
+    Patient_Retention: 53,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 175,
     Research_Paper_Citings: 64,
     Total_research_paper_Published: 27,
-    Weighted_score: 32.81
+    Weighted_score: 34.61
   },
   {
-    Provider_NPI: 133010153,
+    Provider_NPI: 127975903,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Andrew",
     Provider_Last_Name: "Kelly",
@@ -7383,15 +7383,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 68816,
     Avg_claim_growth: 0.31,
     Avg_Patient_growth: 11.66,
-    Patient_Retention: 69,
+    Patient_Retention: 75,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 264,
     Research_Paper_Citings: 32,
     Total_research_paper_Published: 30,
-    Weighted_score: 46.54
+    Weighted_score: 47.44
   },
   {
-    Provider_NPI: 137915245,
+    Provider_NPI: 144639395,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "David",
     Provider_Last_Name: "Howard",
@@ -7416,15 +7416,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 26905,
     Avg_claim_growth: 0.35,
     Avg_Patient_growth: 1.52,
-    Patient_Retention: 42,
+    Patient_Retention: 74,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 477,
     Research_Paper_Citings: 11,
     Total_research_paper_Published: 21,
-    Weighted_score: 59.82
+    Weighted_score: 64.62
   },
   {
-    Provider_NPI: 139528526,
+    Provider_NPI: 137165463,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "James",
     Provider_Last_Name: "Ramos",
@@ -7448,15 +7448,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15988,
     Avg_claim_growth: 0.35,
     Avg_Patient_growth: 1.41,
-    Patient_Retention: 47,
+    Patient_Retention: 58,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 269,
     Research_Paper_Citings: 47,
     Total_research_paper_Published: 9,
-    Weighted_score: 40.65
+    Weighted_score: 42.3
   },
   {
-    Provider_NPI: 126573068,
+    Provider_NPI: 131910263,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Ethan",
     Provider_Last_Name: "Kim",
@@ -7480,15 +7480,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13681,
     Avg_claim_growth: 0.27,
     Avg_Patient_growth: 0.66,
-    Patient_Retention: 60,
+    Patient_Retention: 30,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 417,
     Research_Paper_Citings: 14,
     Total_research_paper_Published: 26,
-    Weighted_score: 55.49
+    Weighted_score: 50.99
   },
   {
-    Provider_NPI: 124160145,
+    Provider_NPI: 136419405,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Ethan",
     Provider_Last_Name: "Cox",
@@ -7512,15 +7512,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 20320,
     Avg_claim_growth: 0.26,
     Avg_Patient_growth: 2.36,
-    Patient_Retention: 67,
+    Patient_Retention: 76,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 573,
     Research_Paper_Citings: 65,
     Total_research_paper_Published: 3,
-    Weighted_score: 74.32
+    Weighted_score: 75.67
   },
   {
-    Provider_NPI: 128017407,
+    Provider_NPI: 139635616,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Noah",
     Provider_Last_Name: "Ward",
@@ -7544,15 +7544,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 6558,
     Avg_claim_growth: 0.09,
     Avg_Patient_growth: 0.53,
-    Patient_Retention: 20,
+    Patient_Retention: 52,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 188,
     Research_Paper_Citings: 18,
     Total_research_paper_Published: 30,
-    Weighted_score: 29.02
+    Weighted_score: 33.82
   },
   {
-    Provider_NPI: 126204291,
+    Provider_NPI: 140055285,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Jesus",
     Provider_Last_Name: "Richardson",
@@ -7576,15 +7576,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15353,
     Avg_claim_growth: 0.44,
     Avg_Patient_growth: 0.86,
-    Patient_Retention: 50,
+    Patient_Retention: 53,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 322,
     Research_Paper_Citings: 32,
     Total_research_paper_Published: 18,
-    Weighted_score: 45.76
+    Weighted_score: 46.21
   },
   {
-    Provider_NPI: 133966967,
+    Provider_NPI: 136681182,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Hunter",
     Provider_Last_Name: "Watson",
@@ -7608,15 +7608,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 22272,
     Avg_claim_growth: 0.45,
     Avg_Patient_growth: 1.16,
-    Patient_Retention: 30,
+    Patient_Retention: 81,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 366,
     Research_Paper_Citings: 28,
     Total_research_paper_Published: 8,
-    Weighted_score: 46.62
+    Weighted_score: 54.27
   },
   {
-    Provider_NPI: 143424262,
+    Provider_NPI: 134145862,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Nicholas",
     Provider_Last_Name: "Brooks",
@@ -7641,15 +7641,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10076,
     Avg_claim_growth: 0.09,
     Avg_Patient_growth: 0.62,
-    Patient_Retention: 27,
+    Patient_Retention: 64,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 401,
     Research_Paper_Citings: 45,
     Total_research_paper_Published: 25,
-    Weighted_score: 51.44
+    Weighted_score: 56.99
   },
   {
-    Provider_NPI: 142187333,
+    Provider_NPI: 128329902,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Elijah",
     Provider_Last_Name: "Diaz",
@@ -7673,15 +7673,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 11297,
     Avg_claim_growth: 0.37,
     Avg_Patient_growth: 0.86,
-    Patient_Retention: 44,
+    Patient_Retention: 33,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 233,
     Research_Paper_Citings: 52,
     Total_research_paper_Published: 6,
-    Weighted_score: 34.94
+    Weighted_score: 33.29
   },
   {
-    Provider_NPI: 137841020,
+    Provider_NPI: 138956580,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Tyler",
     Provider_Last_Name: "Parker",
@@ -7705,15 +7705,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 170960,
     Avg_claim_growth: 0.59,
     Avg_Patient_growth: 13.65,
-    Patient_Retention: 29,
+    Patient_Retention: 80,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 109,
     Research_Paper_Citings: 54,
     Total_research_paper_Published: 2,
-    Weighted_score: 24.2
+    Weighted_score: 31.85
   },
   {
-    Provider_NPI: 136074129,
+    Provider_NPI: 121413045,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Brayden",
     Provider_Last_Name: "Cruz",
@@ -7738,15 +7738,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 20570,
     Avg_claim_growth: 0.3,
     Avg_Patient_growth: 1.67,
-    Patient_Retention: 46,
+    Patient_Retention: 64,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 568,
     Research_Paper_Citings: 12,
     Total_research_paper_Published: 13,
-    Weighted_score: 68.99
+    Weighted_score: 71.69
   },
   {
-    Provider_NPI: 126448128,
+    Provider_NPI: 131817785,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Edwards",
@@ -7770,15 +7770,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 28194,
     Avg_claim_growth: 0.48,
     Avg_Patient_growth: 1.83,
-    Patient_Retention: 32,
+    Patient_Retention: 58,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 263,
     Research_Paper_Citings: 61,
     Total_research_paper_Published: 10,
-    Weighted_score: 38.01
+    Weighted_score: 41.91
   },
   {
-    Provider_NPI: 136360422,
+    Provider_NPI: 124147890,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Isabella",
     Provider_Last_Name: "Collins",
@@ -7802,15 +7802,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 11616,
     Avg_claim_growth: 0.14,
     Avg_Patient_growth: 1.18,
-    Patient_Retention: 36,
+    Patient_Retention: 52,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 532,
     Research_Paper_Citings: 70,
     Total_research_paper_Published: 21,
-    Weighted_score: 66.76
+    Weighted_score: 69.16
   },
   {
-    Provider_NPI: 125413713,
+    Provider_NPI: 143362700,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Reyes",
@@ -7834,15 +7834,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 19620,
     Avg_claim_growth: 0.32,
     Avg_Patient_growth: 1.38,
-    Patient_Retention: 42,
+    Patient_Retention: 77,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 440,
     Research_Paper_Citings: 26,
     Total_research_paper_Published: 18,
-    Weighted_score: 56.44
+    Weighted_score: 61.69
   },
   {
-    Provider_NPI: 138073493,
+    Provider_NPI: 136048154,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Ava",
     Provider_Last_Name: "Stewart",
@@ -7866,15 +7866,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13721,
     Avg_claim_growth: 0.31,
     Avg_Patient_growth: 0.95,
-    Patient_Retention: 74,
+    Patient_Retention: 37,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 402,
     Research_Paper_Citings: 44,
     Total_research_paper_Published: 1,
-    Weighted_score: 55.85
+    Weighted_score: 50.3
   },
   {
-    Provider_NPI: 125614378,
+    Provider_NPI: 136311723,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Ashley",
     Provider_Last_Name: "Morris",
@@ -7898,15 +7898,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 21484,
     Avg_claim_growth: 0.49,
     Avg_Patient_growth: 1.25,
-    Patient_Retention: 65,
+    Patient_Retention: 76,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 256,
     Research_Paper_Citings: 70,
     Total_research_paper_Published: 5,
-    Weighted_score: 43.2
+    Weighted_score: 44.85
   },
   {
-    Provider_NPI: 123050581,
+    Provider_NPI: 132087706,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Chloe",
     Provider_Last_Name: "Morales",
@@ -7930,15 +7930,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 29331,
     Avg_claim_growth: 0.66,
     Avg_Patient_growth: 2.09,
-    Patient_Retention: 44,
+    Patient_Retention: 26,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 435,
     Research_Paper_Citings: 53,
     Total_research_paper_Published: 21,
-    Weighted_score: 56.7
+    Weighted_score: 54
   },
   {
-    Provider_NPI: 140519367,
+    Provider_NPI: 133862784,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Olivia",
     Provider_Last_Name: "Murphy",
@@ -7962,15 +7962,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 20015,
     Avg_claim_growth: 0.03,
     Avg_Patient_growth: 2.91,
-    Patient_Retention: 64,
+    Patient_Retention: 79,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 437,
     Research_Paper_Citings: 23,
     Total_research_paper_Published: 18,
-    Weighted_score: 58.74
+    Weighted_score: 60.99
   },
   {
-    Provider_NPI: 143310088,
+    Provider_NPI: 137783906,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Emily",
     Provider_Last_Name: "Cook",
@@ -7994,15 +7994,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15094,
     Avg_claim_growth: 0.26,
     Avg_Patient_growth: 1.48,
-    Patient_Retention: 52,
+    Patient_Retention: 70,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 496,
     Research_Paper_Citings: 25,
     Total_research_paper_Published: 8,
-    Weighted_score: 63.2
+    Weighted_score: 65.9
   },
   {
-    Provider_NPI: 140550535,
+    Provider_NPI: 143504181,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Paola",
     Provider_Last_Name: "Rogers",
@@ -8026,15 +8026,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 21043,
     Avg_claim_growth: 0.62,
     Avg_Patient_growth: 1.84,
-    Patient_Retention: 38,
+    Patient_Retention: 54,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 284,
     Research_Paper_Citings: 19,
     Total_research_paper_Published: 15,
-    Weighted_score: 38.84
+    Weighted_score: 41.24
   },
   {
-    Provider_NPI: 126604817,
+    Provider_NPI: 142103396,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Gutierrez",
@@ -8059,15 +8059,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10541,
     Avg_claim_growth: 0.38,
     Avg_Patient_growth: 0.64,
-    Patient_Retention: 56,
+    Patient_Retention: 32,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 393,
     Research_Paper_Citings: 67,
     Total_research_paper_Published: 7,
-    Weighted_score: 53.45
+    Weighted_score: 49.85
   },
   {
-    Provider_NPI: 144368670,
+    Provider_NPI: 140923189,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Sophia",
     Provider_Last_Name: "Ortiz",
@@ -8091,15 +8091,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 16389,
     Avg_claim_growth: 0.53,
     Avg_Patient_growth: 2.03,
-    Patient_Retention: 59,
+    Patient_Retention: 81,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 290,
     Research_Paper_Citings: 60,
     Total_research_paper_Published: 10,
-    Weighted_score: 44.56
+    Weighted_score: 47.86
   },
   {
-    Provider_NPI: 124348407,
+    Provider_NPI: 138006565,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Morgan",
@@ -8123,15 +8123,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 18444,
     Avg_claim_growth: 0.34,
     Avg_Patient_growth: 2.18,
-    Patient_Retention: 43,
+    Patient_Retention: 70,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 487,
     Research_Paper_Citings: 65,
     Total_research_paper_Published: 26,
-    Weighted_score: 64.5
+    Weighted_score: 68.55
   },
   {
-    Provider_NPI: 127821601,
+    Provider_NPI: 131546668,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Olivia",
     Provider_Last_Name: "Cooper",
@@ -8155,15 +8155,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 30292,
     Avg_claim_growth: 0.38,
     Avg_Patient_growth: 2.24,
-    Patient_Retention: 67,
+    Patient_Retention: 40,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 143,
     Research_Paper_Citings: 50,
     Total_research_paper_Published: 1,
-    Weighted_score: 29.37
+    Weighted_score: 25.32
   },
   {
-    Provider_NPI: 144206109,
+    Provider_NPI: 123846231,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Chloe",
     Provider_Last_Name: "Peterson",
@@ -8187,15 +8187,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10715,
     Avg_claim_growth: 0.34,
     Avg_Patient_growth: 1.12,
-    Patient_Retention: 38,
+    Patient_Retention: 20,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 100,
     Research_Paper_Citings: 58,
     Total_research_paper_Published: 20,
-    Weighted_score: 22.09
+    Weighted_score: 19.39
   },
   {
-    Provider_NPI: 131036777,
+    Provider_NPI: 142336987,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Isabella",
     Provider_Last_Name: "Bailey",
@@ -8219,15 +8219,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15119,
     Avg_claim_growth: 0.54,
     Avg_Patient_growth: 1.13,
-    Patient_Retention: 63,
+    Patient_Retention: 37,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 326,
     Research_Paper_Citings: 59,
     Total_research_paper_Published: 21,
-    Weighted_score: 49.33
+    Weighted_score: 45.43
   },
   {
-    Provider_NPI: 132242321,
+    Provider_NPI: 142419308,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Reed",
@@ -8251,15 +8251,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10602,
     Avg_claim_growth: 0.39,
     Avg_Patient_growth: 0.74,
-    Patient_Retention: 80,
+    Patient_Retention: 58,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 587,
     Research_Paper_Citings: 61,
     Total_research_paper_Published: 19,
-    Weighted_score: 79.38,
+    Weighted_score: 76.08
   },
   {
-    Provider_NPI: 138699430,
+    Provider_NPI: 134212315,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Isabella",
     Provider_Last_Name: "Kelly",
@@ -8284,15 +8284,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9816,
     Avg_claim_growth: 0.56,
     Avg_Patient_growth: 0.77,
-    Patient_Retention: 25,
+    Patient_Retention: 51,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 455,
     Research_Paper_Citings: 44,
     Total_research_paper_Published: 30,
-    Weighted_score: 57.72
+    Weighted_score: 61.62
   },
   {
-    Provider_NPI: 130232970,
+    Provider_NPI: 141614148,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Genesis",
     Provider_Last_Name: "Howard",
@@ -8316,15 +8316,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8604,
     Avg_claim_growth: 0.2,
     Avg_Patient_growth: 0.45,
-    Patient_Retention: 26,
+    Patient_Retention: 47,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 502,
     Research_Paper_Citings: 25,
     Total_research_paper_Published: 28,
-    Weighted_score: 60.18
+    Weighted_score: 63.33
   },
   {
-    Provider_NPI: 122288161,
+    Provider_NPI: 141385705,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Addison",
     Provider_Last_Name: "Ramos",
@@ -8348,15 +8348,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 32998,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 1.95,
-    Patient_Retention: 75,
+    Patient_Retention: 60,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 554,
     Research_Paper_Citings: 16,
     Total_research_paper_Published: 8,
-    Weighted_score: 71.04
+    Weighted_score: 68.79
   },
   {
-    Provider_NPI: 140536168,
+    Provider_NPI: 134959769,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Kim",
@@ -8381,15 +8381,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 33494,
     Avg_claim_growth: 0.53,
     Avg_Patient_growth: 2.51,
-    Patient_Retention: 67,
+    Patient_Retention: 58,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 479,
     Research_Paper_Citings: 28,
     Total_research_paper_Published: 26,
-    Weighted_score: 65.66
+    Weighted_score: 64.31
   },
   {
-    Provider_NPI: 130786895,
+    Provider_NPI: 131078572,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Addison",
     Provider_Last_Name: "Cox",
@@ -8413,15 +8413,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14049,
     Avg_claim_growth: 0.12,
     Avg_Patient_growth: 1.7,
-    Patient_Retention: 23,
+    Patient_Retention: 68,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 435,
     Research_Paper_Citings: 37,
     Total_research_paper_Published: 28,
-    Weighted_score: 54.26
+    Weighted_score: 61.01
   },
   {
-    Provider_NPI: 122738655,
+    Provider_NPI: 123374315,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Ward",
@@ -8445,15 +8445,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10494,
     Avg_claim_growth: 0.37,
     Avg_Patient_growth: 0.68,
-    Patient_Retention: 69,
+    Patient_Retention: 52,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 306,
     Research_Paper_Citings: 62,
     Total_research_paper_Published: 29,
-    Weighted_score: 49.36
+    Weighted_score: 46.81
   },
   {
-    Provider_NPI: 134500882,
+    Provider_NPI: 128787925,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Sophia",
     Provider_Last_Name: "Richardson",
@@ -8477,15 +8477,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 19513,
     Avg_claim_growth: 0.49,
     Avg_Patient_growth: 1.94,
-    Patient_Retention: 77,
+    Patient_Retention: 62,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 543,
     Research_Paper_Citings: 56,
     Total_research_paper_Published: 19,
-    Weighted_score: 73.64
+    Weighted_score: 71.39
   },
   {
-    Provider_NPI: 129819336,
+    Provider_NPI: 140113374,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Watson",
@@ -8509,15 +8509,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 11334,
     Avg_claim_growth: 0.28,
     Avg_Patient_growth: 0.96,
-    Patient_Retention: 81,
+    Patient_Retention: 66,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 284,
     Research_Paper_Citings: 25,
     Total_research_paper_Published: 22,
-    Weighted_score: 46.55
+    Weighted_score: 44.3
   },
   {
-    Provider_NPI: 121455204,
+    Provider_NPI: 142783893,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Brooks",
@@ -8541,15 +8541,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 38519,
     Avg_claim_growth: 0.39,
     Avg_Patient_growth: 3.91,
-    Patient_Retention: 38,
+    Patient_Retention: 69,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 484,
     Research_Paper_Citings: 40,
     Total_research_paper_Published: 28,
-    Weighted_score: 62.36
+    Weighted_score: 67.01
   },
   {
-    Provider_NPI: 135715709,
+    Provider_NPI: 136869108,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Olivia",
     Provider_Last_Name: "Chavez",
@@ -8573,15 +8573,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 59996,
     Avg_claim_growth: 0.54,
     Avg_Patient_growth: 4.41,
-    Patient_Retention: 59,
+    Patient_Retention: 49,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 291,
     Research_Paper_Citings: 46,
     Total_research_paper_Published: 3,
-    Weighted_score: 43.14
+    Weighted_score: 41.64
   },
   {
-    Provider_NPI: 123811389,
+    Provider_NPI: 135367723,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Gabriela",
     Provider_Last_Name: "Wood",
@@ -8605,15 +8605,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 41023,
     Avg_claim_growth: 0.47,
     Avg_Patient_growth: 4.34,
-    Patient_Retention: 68,
+    Patient_Retention: 20,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 162,
     Research_Paper_Citings: 10,
     Total_research_paper_Published: 17,
-    Weighted_score: 30.96
+    Weighted_score: 23.76
   },
   {
-    Provider_NPI: 133974424,
+    Provider_NPI: 142400172,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Emily",
     Provider_Last_Name: "James",
@@ -8637,15 +8637,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 16634,
     Avg_claim_growth: 0.42,
     Avg_Patient_growth: 1.57,
-    Patient_Retention: 37,
+    Patient_Retention: 73,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 208,
     Research_Paper_Citings: 19,
     Total_research_paper_Published: 8,
-    Weighted_score: 31.1
+    Weighted_score: 36.5
   },
   {
-    Provider_NPI: 140691065,
+    Provider_NPI: 126176212,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Mia",
     Provider_Last_Name: "Bennet",
@@ -8669,15 +8669,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 18225,
     Avg_claim_growth: 0.49,
     Avg_Patient_growth: 0.98,
-    Patient_Retention: 68,
+    Patient_Retention: 64,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 239,
     Research_Paper_Citings: 48,
     Total_research_paper_Published: 23,
-    Weighted_score: 41.29
+    Weighted_score: 40.69
   },
   {
-    Provider_NPI: 143170194,
+    Provider_NPI: 123629096,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Olivia",
     Provider_Last_Name: "Gray",
@@ -8701,15 +8701,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15305,
     Avg_claim_growth: 0.39,
     Avg_Patient_growth: 1.96,
-    Patient_Retention: 29,
+    Patient_Retention: 59,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 461,
     Research_Paper_Citings: 32,
     Total_research_paper_Published: 1,
-    Weighted_score: 55.02
+    Weighted_score: 59.52
   },
   {
-    Provider_NPI: 142223067,
+    Provider_NPI: 138064086,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Mendoza",
@@ -8733,15 +8733,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 123375,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 20.21,
-    Patient_Retention: 79,
+    Patient_Retention: 47,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 147,
     Research_Paper_Citings: 56,
     Total_research_paper_Published: 29,
-    Weighted_score: 38.29
+    Weighted_score: 33.49
   },
   {
-    Provider_NPI: 130582339,
+    Provider_NPI: 126687269,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Emma",
     Provider_Last_Name: "Ruiz",
@@ -8765,15 +8765,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 6875,
     Avg_claim_growth: 0.05,
     Avg_Patient_growth: 0.37,
-    Patient_Retention: 31,
+    Patient_Retention: 53,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 221,
     Research_Paper_Citings: 51,
     Total_research_paper_Published: 3,
-    Weighted_score: 32.08
+    Weighted_score: 35.38
   },
   {
-    Provider_NPI: 130374210,
+    Provider_NPI: 141216402,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Sophia",
     Provider_Last_Name: "Hughes",
@@ -8797,15 +8797,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 33146,
     Avg_claim_growth: 0.11,
     Avg_Patient_growth: 5.54,
-    Patient_Retention: 76,
+    Patient_Retention: 61,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 319,
     Research_Paper_Citings: 55,
     Total_research_paper_Published: 13,
-    Weighted_score: 50.78
+    Weighted_score: 48.53
   },
   {
-    Provider_NPI: 128387974,
+    Provider_NPI: 134241058,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Emily",
     Provider_Last_Name: "Price",
@@ -8829,15 +8829,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17241,
     Avg_claim_growth: 0.43,
     Avg_Patient_growth: 0.92,
-    Patient_Retention: 62,
+    Patient_Retention: 51,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 600,
     Research_Paper_Citings: 68,
     Total_research_paper_Published: 13,
-    Weighted_score: 76.97
+    Weighted_score: 75.32
   },
   {
-    Provider_NPI: 141998434,
+    Provider_NPI: 138673793,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Abigail",
     Provider_Last_Name: "Alvarez",
@@ -8861,12 +8861,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14414,
     Avg_claim_growth: 0.21,
     Avg_Patient_growth: 1.16,
-    Patient_Retention: 25,
+    Patient_Retention: 33,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 362,
     Research_Paper_Citings: 40,
     Total_research_paper_Published: 3,
-    Weighted_score: 43.92
+    Weighted_score: 45.12
   },
   {
     Provider_NPI: 130118262,
@@ -8893,15 +8893,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 71875,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 7.79,
-    Patient_Retention: 50,
+    Patient_Retention: 22,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 224,
     Research_Paper_Citings: 54,
     Total_research_paper_Published: 15,
-    Weighted_score: 37.06
+    Weighted_score: 32.86
   },
   {
-    Provider_NPI: 131403352,
+    Provider_NPI: 131537279,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Isabella",
     Provider_Last_Name: "Sanders",
@@ -8926,15 +8926,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14777,
     Avg_claim_growth: 0.54,
     Avg_Patient_growth: 0.95,
-    Patient_Retention: 20,
+    Patient_Retention: 61,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 190,
     Research_Paper_Citings: 18,
     Total_research_paper_Published: 17,
-    Weighted_score: 27.6
+    Weighted_score: 33.75
   },
   {
-    Provider_NPI: 133605562,
+    Provider_NPI: 141949505,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Emily",
     Provider_Last_Name: "Patel",
@@ -8958,15 +8958,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 33848,
     Avg_claim_growth: 0.53,
     Avg_Patient_growth: 5.01,
-    Patient_Retention: 58,
+    Patient_Retention: 81,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 154,
     Research_Paper_Citings: 25,
     Total_research_paper_Published: 19,
-    Weighted_score: 31.96
+    Weighted_score: 35.41
   },
   {
-    Provider_NPI: 130954961,
+    Provider_NPI: 140001713,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Ava",
     Provider_Last_Name: "Myers",
@@ -8990,15 +8990,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 40405,
     Avg_claim_growth: 0.21,
     Avg_Patient_growth: 5.8,
-    Patient_Retention: 20,
+    Patient_Retention: 64,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 556,
     Research_Paper_Citings: 25,
     Total_research_paper_Published: 29,
-    Weighted_score: 66.25
+    Weighted_score: 72.85
   },
   {
-    Provider_NPI: 135910744,
+    Provider_NPI: 138929992,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Elizabeth",
     Provider_Last_Name: "Long",
@@ -9022,15 +9022,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15603,
     Avg_claim_growth: 0.39,
     Avg_Patient_growth: 1.26,
-    Patient_Retention: 77,
+    Patient_Retention: 68,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 590,
     Research_Paper_Citings: 46,
     Total_research_paper_Published: 13,
-    Weighted_score: 76.98
+    Weighted_score: 75.63
   },
   {
-    Provider_NPI: 126760122,
+    Provider_NPI: 126311195,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Natalie",
     Provider_Last_Name: "Ross",
@@ -9054,15 +9054,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 30247,
     Avg_claim_growth: 0.39,
     Avg_Patient_growth: 2.28,
-    Patient_Retention: 47,
+    Patient_Retention: 76,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 567,
     Research_Paper_Citings: 53,
     Total_research_paper_Published: 3,
-    Weighted_score: 69.53
+    Weighted_score: 73.88
   },
   {
-    Provider_NPI: 126346533,
+    Provider_NPI: 140914676,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Hannah",
     Provider_Last_Name: "Foster",
@@ -9086,15 +9086,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 25416,
     Avg_claim_growth: 0.48,
     Avg_Patient_growth: 1.39,
-    Patient_Retention: 33,
+    Patient_Retention: 41,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 358,
     Research_Paper_Citings: 12,
     Total_research_paper_Published: 1,
-    Weighted_score: 43.62
+    Weighted_score: 44.82
   },
   {
-    Provider_NPI: 144601169,
+    Provider_NPI: 124364564,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Samantha",
     Provider_Last_Name: "Jimenez",
@@ -9118,15 +9118,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9121,
     Avg_claim_growth: 0.25,
     Avg_Patient_growth: 0.49,
-    Patient_Retention: 47,
+    Patient_Retention: 76,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 486,
     Research_Paper_Citings: 59,
     Total_research_paper_Published: 28,
-    Weighted_score: 64.75
+    Weighted_score: 69.1
   },
   {
-    Provider_NPI: 136715596,
+    Provider_NPI: 135283242,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Abigail",
     Provider_Last_Name: "Ruiz",
@@ -9150,15 +9150,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 16456,
     Avg_claim_growth: 0.57,
     Avg_Patient_growth: 1.39,
-    Patient_Retention: 76,
+    Patient_Retention: 56,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 518,
     Research_Paper_Citings: 63,
     Total_research_paper_Published: 6,
-    Weighted_score: 70.64
+    Weighted_score: 67.64
   },
   {
-    Provider_NPI: 129677483,
+    Provider_NPI: 129740051,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Sophia",
     Provider_Last_Name: "Hughes",
@@ -9182,15 +9182,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 6664,
     Avg_claim_growth: 0.13,
     Avg_Patient_growth: 0.31,
-    Patient_Retention: 81,
+    Patient_Retention: 76,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 394,
     Research_Paper_Citings: 49,
     Total_research_paper_Published: 12,
-    Weighted_score: 58.29
+    Weighted_score: 57.54
   },
   {
-    Provider_NPI: 143987878,
+    Provider_NPI: 143461299,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Olivia",
     Provider_Last_Name: "Price",
@@ -9214,15 +9214,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12963,
     Avg_claim_growth: 0.47,
     Avg_Patient_growth: 1.27,
-    Patient_Retention: 65,
+    Patient_Retention: 78,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 239,
     Research_Paper_Citings: 57,
     Total_research_paper_Published: 2,
-    Weighted_score: 39.65
+    Weighted_score: 41.6
   },
   {
-    Provider_NPI: 134240975,
+    Provider_NPI: 142122608,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Hailey",
     Provider_Last_Name: "Alvarez",
@@ -9246,15 +9246,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 18841,
     Avg_claim_growth: 0.38,
     Avg_Patient_growth: 1.68,
-    Patient_Retention: 58,
+    Patient_Retention: 43,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 523,
     Research_Paper_Citings: 27,
     Total_research_paper_Published: 27,
-    Weighted_score: 66.56
+    Weighted_score: 64.31
   },
   {
-    Provider_NPI: 130816663,
+    Provider_NPI: 122812257,
     Provider_Speciality: "General Physician",
     Provider_First_Name: "Ava",
     Provider_Last_Name: "Castillo",
@@ -9279,15 +9279,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9921,
     Avg_claim_growth: 0.14,
     Avg_Patient_growth: 0.77,
-    Patient_Retention: 49,
+    Patient_Retention: 70,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 216,
     Research_Paper_Citings: 13,
     Total_research_paper_Published: 2,
-    Weighted_score: 31.98
+    Weighted_score: 35.13
   },
   {
-    Provider_NPI: 138019654,
+    Provider_NPI: 130754241,
     Provider_Speciality: "Dermatology",
     Provider_First_Name: "Abigail",
     Provider_Last_Name: "Sanders",
@@ -9311,15 +9311,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 37340,
     Avg_claim_growth: 0.43,
     Avg_Patient_growth: 2.31,
-    Patient_Retention: 63,
+    Patient_Retention: 66,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 161,
     Research_Paper_Citings: 61,
     Total_research_paper_Published: 13,
-    Weighted_score: 32.45
+    Weighted_score: 32.9
   },
   {
-    Provider_NPI: 143921074,
+    Provider_NPI: 142512263,
     Provider_Speciality: "Family medicine",
     Provider_First_Name: "Anna",
     Provider_Last_Name: "Patel",
@@ -9343,15 +9343,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 11326,
     Avg_claim_growth: 0.42,
     Avg_Patient_growth: 0.6,
-    Patient_Retention: 77,
+    Patient_Retention: 72,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 194,
     Research_Paper_Citings: 63,
     Total_research_paper_Published: 29,
-    Weighted_score: 39.5
+    Weighted_score: 38.75
   },
   {
-    Provider_NPI: 137494753,
+    Provider_NPI: 126968847,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Ava",
     Provider_Last_Name: "Myers",
@@ -9384,7 +9384,7 @@ export const AggregatedData = [
     Weighted_score: 63.59
   },
   {
-    Provider_NPI: 131915431,
+    Provider_NPI: 131642315,
     Provider_Speciality: "Ophthalmology",
     Provider_First_Name: "Ava",
     Provider_Last_Name: "Long",
@@ -9408,15 +9408,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 24253,
     Avg_claim_growth: 0.36,
     Avg_Patient_growth: 2.37,
-    Patient_Retention: 26,
+    Patient_Retention: 38,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 193,
     Research_Paper_Citings: 38,
     Total_research_paper_Published: 28,
-    Weighted_score: 29.95
+    Weighted_score: 31.75
   },
   {
-    Provider_NPI: 132351077,
+    Provider_NPI: 127507203,
     Provider_Speciality: "Surgery",
     Provider_First_Name: "Emily",
     Provider_Last_Name: "Ross",
@@ -9440,15 +9440,15 @@ export const AggregatedData = [
     Patient_Predicted_2021: 196936,
     Avg_claim_growth: 0.66,
     Avg_Patient_growth: 18.32,
-    Patient_Retention: 55,
+    Patient_Retention: 74,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 555,
     Research_Paper_Citings: 27,
     Total_research_paper_Published: 9,
-    Weighted_score: 72.89
+    Weighted_score: 75.74
   },
   {
-    Provider_NPI: 121517807,
+    Provider_NPI: 134126449,
     Provider_Speciality: "Internal medicine",
     Provider_First_Name: "Madison",
     Provider_Last_Name: "Foster",
@@ -9472,12 +9472,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 6156,
     Avg_claim_growth: 0.16,
     Avg_Patient_growth: 0.18,
-    Patient_Retention: 65,
+    Patient_Retention: 77,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 312,
     Research_Paper_Citings: 53,
     Total_research_paper_Published: 14,
-    Weighted_score: 48.57
+    Weighted_score: 50.37
   },
   {
     Provider_NPI: 130118262,
@@ -9504,12 +9504,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8096,
     Avg_claim_growth: 0.13,
     Avg_Patient_growth: 0.32,
-    Patient_Retention: 41,
+    Patient_Retention: 61,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 583,
     Research_Paper_Citings: 60,
     Total_research_paper_Published: 30,
-    Weighted_score: 73.04
+    Weighted_score: 76.04
   },
   {
     Provider_NPI: 130118262,
@@ -9536,12 +9536,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 92696,
     Avg_claim_growth: 0.63,
     Avg_Patient_growth: 13.04,
-    Patient_Retention: 27,
+    Patient_Retention: 52,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 578,
     Research_Paper_Citings: 34,
     Total_research_paper_Published: 16,
-    Weighted_score: 69.98
+    Weighted_score: 73.73
   },
   {
     Provider_NPI: 130118262,
@@ -9568,12 +9568,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8990,
     Avg_claim_growth: 0.2,
     Avg_Patient_growth: 0.76,
-    Patient_Retention: 37,
+    Patient_Retention: 36,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 290,
     Research_Paper_Citings: 63,
     Total_research_paper_Published: 14,
-    Weighted_score: 40.99
+    Weighted_score: 40.84
   },
   {
     Provider_NPI: 130118262,
@@ -9600,12 +9600,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 39165,
     Avg_claim_growth: 0.66,
     Avg_Patient_growth: 3.14,
-    Patient_Retention: 48,
+    Patient_Retention: 65,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 245,
     Research_Paper_Citings: 46,
     Total_research_paper_Published: 10,
-    Weighted_score: 38.36
+    Weighted_score: 40.91
   },
   {
     Provider_NPI: 130118262,
@@ -9632,12 +9632,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17312,
     Avg_claim_growth: 0.46,
     Avg_Patient_growth: 2.23,
-    Patient_Retention: 64,
+    Patient_Retention: 68,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 118,
     Research_Paper_Citings: 43,
     Total_research_paper_Published: 28,
-    Weighted_score: 29.09
+    Weighted_score: 29.69
   },
   {
     Provider_NPI: 130118262,
@@ -9664,12 +9664,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 24794,
     Avg_claim_growth: 0.54,
     Avg_Patient_growth: 1.89,
-    Patient_Retention: 78,
+    Patient_Retention: 59,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 250,
     Research_Paper_Citings: 66,
     Total_research_paper_Published: 14,
-    Weighted_score: 45.19
+    Weighted_score: 42.34
   },
   {
     Provider_NPI: 130118262,
@@ -9696,12 +9696,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17380,
     Avg_claim_growth: 0.58,
     Avg_Patient_growth: 2.17,
-    Patient_Retention: 37,
+    Patient_Retention: 49,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 519,
     Research_Paper_Citings: 34,
     Total_research_paper_Published: 19,
-    Weighted_score: 63
+    Weighted_score: 64.8
   },
   {
     Provider_NPI: 130118262,
@@ -9728,12 +9728,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15390,
     Avg_claim_growth: 0.51,
     Avg_Patient_growth: 1.09,
-    Patient_Retention: 67,
+    Patient_Retention: 81,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 541,
     Research_Paper_Citings: 70,
     Total_research_paper_Published: 2,
-    Weighted_score: 70.47
+    Weighted_score: 72.57
   },
   {
     Provider_NPI: 130118262,
@@ -9760,12 +9760,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8212,
     Avg_claim_growth: 0.24,
     Avg_Patient_growth: 0.41,
-    Patient_Retention: 43,
+    Patient_Retention: 62,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 131,
     Research_Paper_Citings: 47,
     Total_research_paper_Published: 19,
-    Weighted_score: 26.73
+    Weighted_score: 29.58
   },
   {
     Provider_NPI: 130118262,
@@ -9792,12 +9792,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17055,
     Avg_claim_growth: 0.44,
     Avg_Patient_growth: 1.29,
-    Patient_Retention: 37,
+    Patient_Retention: 74,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 461,
     Research_Paper_Citings: 59,
     Total_research_paper_Published: 14,
-    Weighted_score: 58.54
+    Weighted_score: 64.09
   },
   {
     Provider_NPI: 130118262,
@@ -9825,12 +9825,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13810,
     Avg_claim_growth: 0.26,
     Avg_Patient_growth: 1.75,
-    Patient_Retention: 47,
+    Patient_Retention: 28,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 477,
     Research_Paper_Citings: 10,
     Total_research_paper_Published: 27,
-    Weighted_score: 60.45
+    Weighted_score: 57.6
   },
   {
     Provider_NPI: 130118262,
@@ -9857,12 +9857,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 126740,
     Avg_claim_growth: 0.33,
     Avg_Patient_growth: 16.87,
-    Patient_Retention: 46,
+    Patient_Retention: 59,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 222,
     Research_Paper_Citings: 27,
     Total_research_paper_Published: 24,
-    Weighted_score: 39.49
+    Weighted_score: 41.44
   },
   {
     Provider_NPI: 130118262,
@@ -9889,12 +9889,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12001,
     Avg_claim_growth: 0.42,
     Avg_Patient_growth: 1.17,
-    Patient_Retention: 81,
+    Patient_Retention: 31,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 158,
     Research_Paper_Citings: 12,
     Total_research_paper_Published: 5,
-    Weighted_score: 30.67
+    Weighted_score: 23.17
   },
   {
     Provider_NPI: 130118262,
@@ -9922,12 +9922,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9057,
     Avg_claim_growth: 0.11,
     Avg_Patient_growth: 0.56,
-    Patient_Retention: 47,
+    Patient_Retention: 57,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 223,
     Research_Paper_Citings: 48,
     Total_research_paper_Published: 20,
-    Weighted_score: 37.18
+    Weighted_score: 38.68
   },
   {
     Provider_NPI: 130118262,
@@ -9954,12 +9954,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 25107,
     Avg_claim_growth: 0.61,
     Avg_Patient_growth: 2.42,
-    Patient_Retention: 25,
+    Patient_Retention: 72,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 219,
     Research_Paper_Citings: 45,
     Total_research_paper_Published: 26,
-    Weighted_score: 33.41
+    Weighted_score: 40.46
   },
   {
     Provider_NPI: 130118262,
@@ -9986,12 +9986,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10426,
     Avg_claim_growth: 0.23,
     Avg_Patient_growth: 0.79,
-    Patient_Retention: 73,
+    Patient_Retention: 68,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 562,
     Research_Paper_Citings: 50,
     Total_research_paper_Published: 25,
-    Weighted_score: 74.95
+    Weighted_score: 74.2
   },
   {
     Provider_NPI: 130118262,
@@ -10018,12 +10018,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10368,
     Avg_claim_growth: 0.15,
     Avg_Patient_growth: 0.57,
-    Patient_Retention: 20,
+    Patient_Retention: 66,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 131,
     Research_Paper_Citings: 37,
     Total_research_paper_Published: 4,
-    Weighted_score: 20.9
+    Weighted_score: 27.8
   },
   {
     Provider_NPI: 130118262,
@@ -10050,12 +10050,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15561,
     Avg_claim_growth: 0.53,
     Avg_Patient_growth: 2.06,
-    Patient_Retention: 52,
+    Patient_Retention: 20,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 471,
     Research_Paper_Citings: 13,
     Total_research_paper_Published: 9,
-    Weighted_score: 58.77
+    Weighted_score: 53.97
   },
   {
     Provider_NPI: 130118262,
@@ -10082,12 +10082,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10293,
     Avg_claim_growth: 0.37,
     Avg_Patient_growth: 0.48,
-    Patient_Retention: 39,
+    Patient_Retention: 78,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 113,
     Research_Paper_Citings: 27,
     Total_research_paper_Published: 9,
-    Weighted_score: 22.47
+    Weighted_score: 28.32
   },
   {
     Provider_NPI: 130118262,
@@ -10114,12 +10114,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13608,
     Avg_claim_growth: 0.05,
     Avg_Patient_growth: 1.71,
-    Patient_Retention: 62,
+    Patient_Retention: 78,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 143,
     Research_Paper_Citings: 55,
     Total_research_paper_Published: 24,
-    Weighted_score: 31.7
+    Weighted_score: 34.1
   },
   {
     Provider_NPI: 130118262,
@@ -10146,12 +10146,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10246,
     Avg_claim_growth: 0.08,
     Avg_Patient_growth: 0.53,
-    Patient_Retention: 30,
+    Patient_Retention: 32,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 395,
     Research_Paper_Citings: 26,
     Total_research_paper_Published: 10,
-    Weighted_score: 48.02
+    Weighted_score: 48.32
   },
   {
     Provider_NPI: 130118262,
@@ -10178,12 +10178,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 6746,
     Avg_claim_growth: 0.05,
     Avg_Patient_growth: 0.32,
-    Patient_Retention: 61,
+    Patient_Retention: 54,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 510,
     Research_Paper_Citings: 30,
     Total_research_paper_Published: 14,
-    Weighted_score: 65.82
+    Weighted_score: 64.77
   },
   {
     Provider_NPI: 130118262,
@@ -10210,12 +10210,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13982,
     Avg_claim_growth: 0.41,
     Avg_Patient_growth: 0.8,
-    Patient_Retention: 71,
+    Patient_Retention: 51,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 383,
     Research_Paper_Citings: 61,
     Total_research_paper_Published: 25,
-    Weighted_score: 57.64
+    Weighted_score: 54.64
   },
   {
     Provider_NPI: 130118262,
@@ -10242,12 +10242,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14378,
     Avg_claim_growth: 0.31,
     Avg_Patient_growth: 1.01,
-    Patient_Retention: 31,
+    Patient_Retention: 76,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 177,
     Research_Paper_Citings: 41,
     Total_research_paper_Published: 13,
-    Weighted_score: 29.56
+    Weighted_score: 36.31
   },
   {
     Provider_NPI: 130118262,
@@ -10274,12 +10274,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 30347,
     Avg_claim_growth: 0.66,
     Avg_Patient_growth: 2.13,
-    Patient_Retention: 78,
+    Patient_Retention: 61,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 560,
     Research_Paper_Citings: 54,
     Total_research_paper_Published: 25,
-    Weighted_score: 76.36
+    Weighted_score: 73.81
   },
   {
     Provider_NPI: 130118262,
@@ -10306,12 +10306,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17357,
     Avg_claim_growth: 0.46,
     Avg_Patient_growth: 0.84,
-    Patient_Retention: 75,
+    Patient_Retention: 63,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 240,
     Research_Paper_Citings: 58,
     Total_research_paper_Published: 23,
-    Weighted_score: 43.21
+    Weighted_score: 41.41
   },
   {
     Provider_NPI: 130118262,
@@ -10338,12 +10338,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 8123,
     Avg_claim_growth: 0.31,
     Avg_Patient_growth: 0.57,
-    Patient_Retention: 55,
+    Patient_Retention: 63,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 482,
     Research_Paper_Citings: 41,
     Total_research_paper_Published: 22,
-    Weighted_score: 63.88
+    Weighted_score: 65.08
   },
   {
     Provider_NPI: 130118262,
@@ -10370,12 +10370,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17859,
     Avg_claim_growth: 0.22,
     Avg_Patient_growth: 2.17,
-    Patient_Retention: 50,
+    Patient_Retention: 63,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 533,
     Research_Paper_Citings: 56,
     Total_research_paper_Published: 23,
-    Weighted_score: 68.98
+    Weighted_score: 70.93
   },
   {
     Provider_NPI: 130118262,
@@ -10402,12 +10402,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 18676,
     Avg_claim_growth: 0.53,
     Avg_Patient_growth: 1.6,
-    Patient_Retention: 79,
+    Patient_Retention: 23,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 291,
     Research_Paper_Citings: 58,
     Total_research_paper_Published: 18,
-    Weighted_score: 47.48
+    Weighted_score: 39.08
   },
   {
     Provider_NPI: 130118262,
@@ -10434,12 +10434,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 54563,
     Avg_claim_growth: 0.64,
     Avg_Patient_growth: 5.4,
-    Patient_Retention: 51,
+    Patient_Retention: 49,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 335,
     Research_Paper_Citings: 20,
     Total_research_paper_Published: 29,
-    Weighted_score: 47.96
+    Weighted_score: 47.66
   },
   {
     Provider_NPI: 130118262,
@@ -10467,12 +10467,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9106,
     Avg_claim_growth: 0.27,
     Avg_Patient_growth: 0.4,
-    Patient_Retention: 65,
+    Patient_Retention: 34,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 513,
     Research_Paper_Citings: 53,
     Total_research_paper_Published: 18,
-    Weighted_score: 67.43
+    Weighted_score: 62.78
   },
   {
     Provider_NPI: 130118262,
@@ -10499,12 +10499,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12371,
     Avg_claim_growth: 0.41,
     Avg_Patient_growth: 0.47,
-    Patient_Retention: 75,
+    Patient_Retention: 50,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 502,
     Research_Paper_Citings: 40,
     Total_research_paper_Published: 1,
-    Weighted_score: 65.13
+    Weighted_score: 61.38
   },
   {
     Provider_NPI: 130118262,
@@ -10531,12 +10531,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 11112,
     Avg_claim_growth: 0.35,
     Avg_Patient_growth: 0.73,
-    Patient_Retention: 51,
+    Patient_Retention: 76,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 306,
     Research_Paper_Citings: 12,
     Total_research_paper_Published: 5,
-    Weighted_score: 41.47
+    Weighted_score: 45.22
   },
   {
     Provider_NPI: 130118262,
@@ -10563,12 +10563,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9653,
     Avg_claim_growth: 0.03,
     Avg_Patient_growth: 0.91,
-    Patient_Retention: 23,
+    Patient_Retention: 50,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 281,
     Research_Paper_Citings: 43,
     Total_research_paper_Published: 2,
-    Weighted_score: 37.19
+    Weighted_score: 41.24
   },
   {
     Provider_NPI: 130118262,
@@ -10595,12 +10595,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12589,
     Avg_claim_growth: 0.38,
     Avg_Patient_growth: 0.85,
-    Patient_Retention: 40,
+    Patient_Retention: 64,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 111,
     Research_Paper_Citings: 26,
     Total_research_paper_Published: 30,
-    Weighted_score: 24.85
+    Weighted_score: 28.45
   },
   {
     Provider_NPI: 130118262,
@@ -10627,12 +10627,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 24668,
     Avg_claim_growth: 0.5,
     Avg_Patient_growth: 2.01,
-    Patient_Retention: 60,
+    Patient_Retention: 56,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 592,
     Research_Paper_Citings: 44,
     Total_research_paper_Published: 27,
-    Weighted_score: 76.4
+    Weighted_score: 75.8
   },
   {
     Provider_NPI: 130118262,
@@ -10659,12 +10659,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13325,
     Avg_claim_growth: 0.41,
     Avg_Patient_growth: 0.85,
-    Patient_Retention: 54,
+    Patient_Retention: 28,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 559,
     Research_Paper_Citings: 55,
     Total_research_paper_Published: 29,
-    Weighted_score: 71.6
+    Weighted_score: 67.7
   },
   {
     Provider_NPI: 130118262,
@@ -10692,12 +10692,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 15563,
     Avg_claim_growth: 0.48,
     Avg_Patient_growth: 2.04,
-    Patient_Retention: 27,
+    Patient_Retention: 20,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 501,
     Research_Paper_Citings: 42,
     Total_research_paper_Published: 8,
-    Weighted_score: 59.15
+    Weighted_score: 58.1
   },
   {
     Provider_NPI: 130118262,
@@ -10724,12 +10724,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12177,
     Avg_claim_growth: 0.53,
     Avg_Patient_growth: 1.09,
-    Patient_Retention: 28,
+    Patient_Retention: 65,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 261,
     Research_Paper_Citings: 56,
     Total_research_paper_Published: 12,
-    Weighted_score: 36.92
+    Weighted_score: 42.47
   },
   {
     Provider_NPI: 130118262,
@@ -10756,12 +10756,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10546,
     Avg_claim_growth: 0.22,
     Avg_Patient_growth: 0.8,
-    Patient_Retention: 56,
+    Patient_Retention: 43,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 474,
     Research_Paper_Citings: 50,
     Total_research_paper_Published: 7,
-    Weighted_score: 61
+    Weighted_score: 59.05
   },
   {
     Provider_NPI: 130118262,
@@ -10789,12 +10789,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 11726,
     Avg_claim_growth: 0.38,
     Avg_Patient_growth: 1.08,
-    Patient_Retention: 31,
+    Patient_Retention: 44,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 245,
     Research_Paper_Citings: 49,
     Total_research_paper_Published: 1,
-    Weighted_score: 33.79
+    Weighted_score: 35.74
   },
   {
     Provider_NPI: 130118262,
@@ -10821,12 +10821,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10864,
     Avg_claim_growth: 0.42,
     Avg_Patient_growth: 0.78,
-    Patient_Retention: 59,
+    Patient_Retention: 25,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 552,
     Research_Paper_Citings: 42,
     Total_research_paper_Published: 2,
-    Weighted_score: 67.99
+    Weighted_score: 62.89
   },
   {
     Provider_NPI: 130118262,
@@ -10885,12 +10885,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14370,
     Avg_claim_growth: 0.19,
     Avg_Patient_growth: 1.1,
-    Patient_Retention: 43,
+    Patient_Retention: 20,
     Total_Hospital_Affiliations: 5,
     Total_Beds_in_Affiliated_Hospital: 599,
     Research_Paper_Citings: 65,
     Total_research_paper_Published: 24,
-    Weighted_score: 74.16
+    Weighted_score: 70.71
   },
   {
     Provider_NPI: 130118262,
@@ -10917,12 +10917,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 12431,
     Avg_claim_growth: 0.61,
     Avg_Patient_growth: 1.23,
-    Patient_Retention: 27,
+    Patient_Retention: 24,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 128,
     Research_Paper_Citings: 69,
     Total_research_paper_Published: 28,
-    Weighted_score: 24.87
+    Weighted_score: 24.42
   },
   {
     Provider_NPI: 130118262,
@@ -10949,12 +10949,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 20938,
     Avg_claim_growth: 0.36,
     Avg_Patient_growth: 1.32,
-    Patient_Retention: 38,
+    Patient_Retention: 51,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 256,
     Research_Paper_Citings: 16,
     Total_research_paper_Published: 10,
-    Weighted_score: 37.04
+    Weighted_score: 38.99
   },
   {
     Provider_NPI: 130118262,
@@ -10981,12 +10981,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 42212,
     Avg_claim_growth: 0.25,
     Avg_Patient_growth: 6.22,
-    Patient_Retention: 20,
+    Patient_Retention: 77,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 337,
     Research_Paper_Citings: 12,
     Total_research_paper_Published: 6,
-    Weighted_score: 41.39
+    Weighted_score: 49.94
   },
   {
     Provider_NPI: 130118262,
@@ -11013,12 +11013,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 10298,
     Avg_claim_growth: 0.37,
     Avg_Patient_growth: 0.59,
-    Patient_Retention: 39,
+    Patient_Retention: 80,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 246,
     Research_Paper_Citings: 26,
     Total_research_paper_Published: 11,
-    Weighted_score: 35.84
+    Weighted_score: 41.99
   },
   {
     Provider_NPI: 130118262,
@@ -11045,12 +11045,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 36120,
     Avg_claim_growth: 0.54,
     Avg_Patient_growth: 2.62,
-    Patient_Retention: 63,
+    Patient_Retention: 49,
     Total_Hospital_Affiliations: 1,
     Total_Beds_in_Affiliated_Hospital: 591,
     Research_Paper_Citings: 15,
     Total_research_paper_Published: 30,
-    Weighted_score: 74.23
+    Weighted_score: 72.13
   },
   {
     Provider_NPI: 130118262,
@@ -11077,12 +11077,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 22517,
     Avg_claim_growth: 0.38,
     Avg_Patient_growth: 2.01,
-    Patient_Retention: 36,
+    Patient_Retention: 66,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 426,
     Research_Paper_Citings: 55,
     Total_research_paper_Published: 7,
-    Weighted_score: 55.53
+    Weighted_score: 60.03
   },
   {
     Provider_NPI: 130118262,
@@ -11109,12 +11109,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13497,
     Avg_claim_growth: 0.41,
     Avg_Patient_growth: 1.03,
-    Patient_Retention: 39,
+    Patient_Retention: 51,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 582,
     Research_Paper_Citings: 60,
     Total_research_paper_Published: 26,
-    Weighted_score: 72.74
+    Weighted_score: 74.54
   },
   {
     Provider_NPI: 130118262,
@@ -11141,12 +11141,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 6497,
     Avg_claim_growth: 0.08,
     Avg_Patient_growth: 0.86,
-    Patient_Retention: 29,
+    Patient_Retention: 65,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 152,
     Research_Paper_Citings: 28,
     Total_research_paper_Published: 4,
-    Weighted_score: 24.54
+    Weighted_score: 29.94
   },
   {
     Provider_NPI: 130118262,
@@ -11173,12 +11173,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 17078,
     Avg_claim_growth: 0.61,
     Avg_Patient_growth: 1.99,
-    Patient_Retention: 28,
+    Patient_Retention: 80,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 192,
     Research_Paper_Citings: 31,
     Total_research_paper_Published: 30,
-    Weighted_score: 31.67
+    Weighted_score: 39.47
   },
   {
     Provider_NPI: 130118262,
@@ -11205,12 +11205,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 13523,
     Avg_claim_growth: 0.37,
     Avg_Patient_growth: 0.63,
-    Patient_Retention: 24,
+    Patient_Retention: 41,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 565,
     Research_Paper_Citings: 15,
     Total_research_paper_Published: 14,
-    Weighted_score: 63.85
+    Weighted_score: 66.4
   },
   {
     Provider_NPI: 130118262,
@@ -11237,12 +11237,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9485,
     Avg_claim_growth: 0.33,
     Avg_Patient_growth: 0.83,
-    Patient_Retention: 77,
+    Patient_Retention: 21,
     Total_Hospital_Affiliations: 6,
     Total_Beds_in_Affiliated_Hospital: 483,
     Research_Paper_Citings: 16,
     Total_research_paper_Published: 15,
-    Weighted_score: 63.98
+    Weighted_score: 55.58
   },
   {
     Provider_NPI: 130118262,
@@ -11269,12 +11269,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 14576,
     Avg_claim_growth: 0.46,
     Avg_Patient_growth: 1.03,
-    Patient_Retention: 71,
+    Patient_Retention: 54,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 267,
     Research_Paper_Citings: 59,
     Total_research_paper_Published: 6,
-    Weighted_score: 43.2
+    Weighted_score: 40.65
   },
   {
     Provider_NPI: 130118262,
@@ -11301,12 +11301,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 63576,
     Avg_claim_growth: 0.55,
     Avg_Patient_growth: 4.17,
-    Patient_Retention: 63,
+    Patient_Retention: 70,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 421,
     Research_Paper_Citings: 38,
     Total_research_paper_Published: 19,
-    Weighted_score: 58.89
+    Weighted_score: 59.94
   },
   {
     Provider_NPI: 130118262,
@@ -11334,12 +11334,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 4720,
     Avg_claim_growth: 0.01,
     Avg_Patient_growth: 0.05,
-    Patient_Retention: 71,
+    Patient_Retention: 32,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 255,
     Research_Paper_Citings: 51,
     Total_research_paper_Published: 8,
-    Weighted_score: 41.01
+    Weighted_score: 35.16
   },
   {
     Provider_NPI: 130118262,
@@ -11366,12 +11366,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 9021,
     Avg_claim_growth: 0.02,
     Avg_Patient_growth: 0.75,
-    Patient_Retention: 44,
+    Patient_Retention: 53,
     Total_Hospital_Affiliations: 4,
     Total_Beds_in_Affiliated_Hospital: 479,
     Research_Paper_Citings: 67,
     Total_research_paper_Published: 1,
-    Weighted_score: 61.4
+    Weighted_score: 62.75
   },
   {
     Provider_NPI: 130118262,
@@ -11398,12 +11398,12 @@ export const AggregatedData = [
     Patient_Predicted_2021: 40330,
     Avg_claim_growth: 0.38,
     Avg_Patient_growth: 6.68,
-    Patient_Retention: 37,
+    Patient_Retention: 41,
     Total_Hospital_Affiliations: 2,
     Total_Beds_in_Affiliated_Hospital: 139,
     Research_Paper_Citings: 58,
     Total_research_paper_Published: 19,
-    Weighted_score: 26.86
+    Weighted_score: 27.46
   },
   {
     Provider_NPI: 130118262,
@@ -11430,11 +11430,205 @@ export const AggregatedData = [
     Patient_Predicted_2021: 18888,
     Avg_claim_growth: 0.44,
     Avg_Patient_growth: 1.34,
-    Patient_Retention: 53,
+    Patient_Retention: 22,
     Total_Hospital_Affiliations: 3,
     Total_Beds_in_Affiliated_Hospital: 188,
     Research_Paper_Citings: 24,
     Total_research_paper_Published: 15,
-    Weighted_score: 31.41
+    Weighted_score: 26.76
+  },
+  {
+    Provider_NPI: 137836690,
+    Provider_Speciality: "Family medicine",
+    Provider_First_Name: "Emma",
+    Provider_Last_Name: "Jones",
+    Provider_State: "NY",
+    Provider_State_Name: "New York",
+    Provider_Number: "+1 (512) 765-5563",
+    Provider_Experience_yrs: 7,
+    Provider_Zip: 61612,
+    Hospital_Affiliation: "Bluebird Hospital",
+    Claim_2018: 667,
+    Claim_2019: 1604,
+    Claim_2020: 1800,
+    Claim_growth_18_19: 0.58,
+    Claim_growth_19_20: 0.11,
+    Patient_2018: 463,
+    Patient_2019: 1288,
+    Patient_2020: 1641,
+    Patient_growth_18_19: 1.78,
+    Patient_growth_19_20: 0.27,
+    Claim_Predicted_2021: 2424,
+    Patient_Predicted_2021: 3328,
+    Avg_claim_growth: 0.35,
+    Avg_Patient_growth: 1.03,
+    Patient_Retention: 20,
+    Total_Hospital_Affiliations: 1,
+    Total_Beds_in_Affiliated_Hospital: 401,
+    Research_Paper_Citings: 12,
+    Total_research_paper_Published: 3,
+    Weighted_score: 45.07
+  },
+  {
+    Provider_NPI: 140940437,
+    Provider_Speciality: "Internal medicine",
+    Provider_First_Name: "Ava",
+    Provider_Last_Name: "Garcia",
+    Provider_State: "NY",
+    Provider_State_Name: "New York",
+    Provider_Number: "+1 (533) 682-7787",
+    Provider_Experience_yrs: 12,
+    Provider_Zip: 61612,
+    Hospital_Affiliation:
+      "New York-Presbyterian University Hospital of Columbia and Cornell",
+    Claim_2018: 430,
+    Claim_2019: 2196,
+    Claim_2020: 3469,
+    Claim_growth_18_19: 0.8,
+    Claim_growth_19_20: 0.37,
+    Patient_2018: 363,
+    Patient_2019: 1018,
+    Patient_2020: 1521,
+    Patient_growth_18_19: 1.8,
+    Patient_growth_19_20: 0.49,
+    Claim_Predicted_2021: 5500,
+    Patient_Predicted_2021: 3269,
+    Avg_claim_growth: 0.59,
+    Avg_Patient_growth: 1.15,
+    Patient_Retention: 20,
+    Total_Hospital_Affiliations: 1,
+    Total_Beds_in_Affiliated_Hospital: 401,
+    Research_Paper_Citings: 21,
+    Total_research_paper_Published: 12,
+    Weighted_score: 47
+  },
+  {
+    Provider_NPI: 131401484,
+    Provider_Speciality: "Ophthalmology",
+    Provider_First_Name: "Ava",
+    Provider_Last_Name: "Miller",
+    Provider_State: "NY",
+    Provider_State_Name: "New York",
+    Provider_Number: "+1 (503) 136-5442",
+    Provider_Experience_yrs: 31,
+    Provider_Zip: 61612,
+    Hospital_Affiliation:
+      "New York-Presbyterian University Hospital of Columbia and Cornell",
+    Claim_2018: 970,
+    Claim_2019: 1005,
+    Claim_2020: 4245,
+    Claim_growth_18_19: 0.03,
+    Claim_growth_19_20: 0.76,
+    Patient_2018: 494,
+    Patient_2019: 809,
+    Patient_2020: 977,
+    Patient_growth_18_19: 0.64,
+    Patient_growth_19_20: 0.21,
+    Claim_Predicted_2021: 5939,
+    Patient_Predicted_2021: 1390,
+    Avg_claim_growth: 0.4,
+    Avg_Patient_growth: 0.42,
+    Patient_Retention: 76,
+    Total_Hospital_Affiliations: 5,
+    Total_Beds_in_Affiliated_Hospital: 123,
+    Research_Paper_Citings: 109,
+    Total_research_paper_Published: 41,
+    Weighted_score: 37.01
+  },
+  {
+    Provider_NPI: 136574892,
+    Provider_Speciality: "Dermatology",
+    Provider_First_Name: "Emily",
+    Provider_Last_Name: "Davis",
+    Provider_State: "NY",
+    Provider_State_Name: "New York",
+    Provider_Number: "+1 (504) 354-5084",
+    Provider_Experience_yrs: 26,
+    Provider_Zip: 61612,
+    Hospital_Affiliation: "UCSF Medical Center",
+    Claim_2018: 1072,
+    Claim_2019: 2270,
+    Claim_2020: 3990,
+    Claim_growth_18_19: 0.53,
+    Claim_growth_19_20: 0.43,
+    Patient_2018: 987,
+    Patient_2019: 1767,
+    Patient_2020: 2876,
+    Patient_growth_18_19: 0.79,
+    Patient_growth_19_20: 0.63,
+    Claim_Predicted_2021: 5903,
+    Patient_Predicted_2021: 4915,
+    Avg_claim_growth: 0.48,
+    Avg_Patient_growth: 0.71,
+    Patient_Retention: 66,
+    Total_Hospital_Affiliations: 6,
+    Total_Beds_in_Affiliated_Hospital: 467,
+    Research_Paper_Citings: 11,
+    Total_research_paper_Published: 23,
+    Weighted_score: 62.89
+  },
+  {
+    Provider_NPI: 125263183,
+    Provider_Speciality: "Dermatology",
+    Provider_First_Name: "Madison",
+    Provider_Last_Name: "Rodriguez",
+    Provider_State: "NY",
+    Provider_State_Name: "New York",
+    Provider_Number: "+1 (563) 341-5047",
+    Provider_Experience_yrs: 29,
+    Provider_Zip: 61612,
+    Hospital_Affiliation: "Northwestern Memorial Hospital",
+    Claim_2018: 1050,
+    Claim_2019: 1521,
+    Claim_2020: 4695,
+    Claim_growth_18_19: 0.31,
+    Claim_growth_19_20: 0.68,
+    Patient_2018: 559,
+    Patient_2019: 1113,
+    Patient_2020: 1312,
+    Patient_growth_18_19: 0.99,
+    Patient_growth_19_20: 0.18,
+    Claim_Predicted_2021: 7009,
+    Patient_Predicted_2021: 2079,
+    Avg_claim_growth: 0.49,
+    Avg_Patient_growth: 0.58,
+    Patient_Retention: 45,
+    Total_Hospital_Affiliations: 3,
+    Total_Beds_in_Affiliated_Hospital: 987,
+    Research_Paper_Citings: 55,
+    Total_research_paper_Published: 22,
+    Weighted_score: 113.82
+  },
+  {
+    Provider_NPI: 139731906,
+    Provider_Speciality: "Dermatology",
+    Provider_First_Name: "Suman",
+    Provider_Last_Name: "Martinez",
+    Provider_State: "NY",
+    Provider_State_Name: "New York",
+    Provider_Number: "+1 (520) 441-4677",
+    Provider_Experience_yrs: 12,
+    Provider_Zip: 61612,
+    Hospital_Affiliation: "UCSF Medical Center",
+    Claim_2018: 591,
+    Claim_2019: 2835,
+    Claim_2020: 4981,
+    Claim_growth_18_19: 0.79,
+    Claim_growth_19_20: 0.43,
+    Patient_2018: 101,
+    Patient_2019: 1479,
+    Patient_2020: 2607,
+    Patient_growth_18_19: 13.64,
+    Patient_growth_19_20: 0.76,
+    Claim_Predicted_2021: 8025,
+    Patient_Predicted_2021: 21386,
+    Avg_claim_growth: 0.61,
+    Avg_Patient_growth: 7.2,
+    Patient_Retention: 67,
+    Total_Hospital_Affiliations: 1,
+    Total_Beds_in_Affiliated_Hospital: 98,
+    Research_Paper_Citings: 45,
+    Total_research_paper_Published: 8,
+    Weighted_score: 25.76
   }
 ];
